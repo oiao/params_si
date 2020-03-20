@@ -1,0 +1,25 @@
+---
+ID: mymol01
+ReferenceEngineID: None
+AMSInput: |
+   Task SinglePoint
+   System
+       Atoms
+           He  0.0  0.0  0.0
+           He  2.5  0.0  0.0
+       End
+   End
+RandomMetadata: I love Helium
+---
+ID: mymol02
+ReferenceEngineID: None
+AMSInput: |
+   Task GeometryOptimization
+   System
+       Atoms
+           He  0.0   0.0   0.0
+           He  2.5   0.0   0.0
+           He  1.25  1.75  0.0
+       End
+   End
+...
