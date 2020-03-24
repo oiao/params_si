@@ -1,0 +1,6791 @@
+---
+Expression: distance("dpds",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.391
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.396
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.393
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.394
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",6,5)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.398
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",7,6)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.773
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",8,7)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",9,8)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.773
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",10,9)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.399
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",11,10)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.391
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",12,11)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.396
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",13,12)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.393
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",14,13)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.394
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",15,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",16,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",17,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",18,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",19,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",20,10)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",21,11)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",22,12)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",23,13)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpds",24,14)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.258
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.023
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.103
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.739
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",5,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   118.692
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",6,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   98.809
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",7,8,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   98.807
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",8,9,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.02
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",9,10,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.628
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",10,11,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.257
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",11,12,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.023
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",12,13,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.103
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",2,1,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.954
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",1,2,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.733
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",2,3,17)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.937
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",3,4,18)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.175
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",4,5,19)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.931
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",9,10,20)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.417
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",10,11,21)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.733
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",11,12,22)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.935
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",12,13,23)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.176
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpds",13,14,24)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.933
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.08400000000000318
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.3879999999999768
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",3,4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.664
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",4,5,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   178.239
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",5,6,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   98.907
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",6,7,8,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.932000000000016
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",7,8,9,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   78.86500000000001
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",8,9,10,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   177.718
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",9,10,11,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.274
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",10,11,12,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.08300000000002683
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",11,12,13,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.3879999999999768
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",3,2,1,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.775
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",3,1,2,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.69
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",1,2,3,17)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.83
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",2,3,4,18)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.685
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",3,4,5,19)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   178.806
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",8,9,10,20)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   1.7900000000000205
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",9,10,11,21)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",10,11,12,22)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.83
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",11,12,13,23)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.685
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpds",12,13,14,24)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   178.809
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.39
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.395
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.394
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.391
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",6,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.401
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",7,6)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.476
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",8,7)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.64
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",9,7)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.476
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",10,9)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.401
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",11,10)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.39
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",12,11)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.395
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",13,12)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.394
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",14,13)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.391
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",15,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",16,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",17,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",18,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",19,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",20,10)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",21,11)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",22,12)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",23,13)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpt",24,14)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.267
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.742
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.218
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.36
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",1,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.681
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",6,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.508
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",6,7,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   116.988
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",7,9,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.685
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",9,10,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.358
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",10,11,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.268
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",11,12,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.741
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",12,13,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.217
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",2,1,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.993
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",1,2,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.737
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",2,3,17)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.136
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",3,4,18)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.079
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",4,5,19)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.173
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",9,10,20)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   118.657
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",10,11,21)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.734
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",11,12,22)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.138
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",12,13,23)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.076
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpt",13,14,24)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.176
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.4970000000000141
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.8439999999999941
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",3,2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",2,1,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   178.516
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",1,6,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   34.973
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",1,6,7,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   145.024
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",6,7,9,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   144.992
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",7,9,10,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   178.514
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",9,10,11,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",10,11,12,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.4970000000000141
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",11,12,13,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.8439999999999941
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",3,2,1,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.312
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",3,1,2,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",1,2,3,17)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.519
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",2,3,4,18)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.354
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",3,4,5,19)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.736
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",7,9,10,20)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   1.877
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",9,10,11,21)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   178.963
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",10,11,12,22)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.518
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",11,12,13,23)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.355
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpt",12,13,14,24)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.736
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.509
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.423
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.363
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.397
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",6,5)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.396
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",7,6)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.39
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",8,7)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.396
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",9,8)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.388
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",10,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",11,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",12,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",13,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.093
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",14,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.093
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",15,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.079
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",16,6)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",17,7)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",18,8)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("epe",19,9)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.074
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   116.841
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   124.547
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.477
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",5,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.927
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",6,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.236
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",7,8,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.42
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",2,1,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.128
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",2,1,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.335
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",2,1,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.344
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",1,2,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.032
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",1,2,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.039
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",4,5,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.125
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",5,6,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   118.99
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",6,7,17)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.352
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",7,8,18)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.189
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("epe",8,9,19)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.419
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.08
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",3,4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",4,5,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",5,6,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",6,7,8,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",3,2,1,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",3,2,1,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   59.956
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",3,2,1,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   60.05000000000001
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",3,1,2,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.797
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",3,1,2,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.795
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",3,4,5,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",4,5,6,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",5,6,7,17)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",6,7,8,18)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("epe",7,8,9,19)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.389
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.396
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.39
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.397
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",6,5)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.358
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",7,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.399
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",8,7)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.767
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",9,8)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.103
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",10,9)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.765
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",11,10)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.406
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",12,11)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.351
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",13,11)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.393
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",14,13)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.392
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",15,14)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.396
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",16,15)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.391
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",17,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",18,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",19,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",20,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.084
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",21,6)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   0.965
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",22,12)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   0.972
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",23,13)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",24,14)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",25,15)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dpods",26,16)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.458
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.272
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.625
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   122.177
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.755
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",1,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.57
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",7,8,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   98.142
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",8,9,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   99.166
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",9,10,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.778
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",10,11,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   122.17
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",10,11,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.237
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",11,13,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.112
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",13,14,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.779
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",14,15,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.471
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",2,1,17)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.925
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",1,2,18)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.14
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",2,3,19)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.281
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",3,4,20)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.221
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",5,6,21)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.212
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",11,12,22)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   106.315
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",11,13,23)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   118.593
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",13,14,24)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.215
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",14,15,25)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.484
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dpods",15,16,26)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.118
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.3
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.5240000000000009
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",3,4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",3,2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.299
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",2,1,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   176.083
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",1,7,8,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   82.25200000000001
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",7,8,9,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   60.370000000000005
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",8,9,10,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   81.529
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",9,10,11,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   2.1539999999999964
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",9,10,11,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   177.058
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",10,11,13,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.7459999999999809
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",11,13,14,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.803
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",13,14,15,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.4270000000000209
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",3,2,1,17)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.23
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",3,1,2,18)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.857
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",1,2,3,19)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",2,3,4,20)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.674
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",4,5,6,21)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   15.915
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",10,11,12,22)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.3480000000000132
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",10,11,13,23)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.767
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",11,13,14,24)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",13,14,15,25)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.425
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dpods",14,15,16,26)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.5
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.391
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.392
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.392
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.392
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",6,5)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.369
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",7,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.396
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",8,7)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.765
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",9,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",10,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",11,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",12,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.084
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",13,6)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   0.963
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("htp",14,8)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.336
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.823
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.666
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.593
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   122.368
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.971
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",1,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   118.908
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",2,1,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.16
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",1,2,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.751
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",2,3,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.63
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",3,4,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.232
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",5,6,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.096
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("htp",7,8,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   95.565
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",3,4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",3,2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",2,1,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",3,2,1,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",3,1,2,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",1,2,3,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",2,3,4,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",4,5,6,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.07900000000000773
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("htp",1,7,8,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.918
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.377
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.415
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.415
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.377
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",6,5)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.411
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",7,6)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.377
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",8,7)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.415
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",9,8)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.415
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",10,9)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.377
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",11,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",12,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.083
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",13,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.083
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",14,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",15,6)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",16,7)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.083
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",17,9)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.083
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("nph",18,10)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.712
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   122.034
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.711
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.306
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",5,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.306
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",6,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.711
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",7,8,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   122.034
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",8,9,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.711
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",2,1,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.95
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",1,2,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.423
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",3,4,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   118.866
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",4,5,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.95
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",5,6,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.745
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",6,7,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.423
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",8,9,17)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   118.866
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("nph",9,10,18)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.95
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",3,4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",4,5,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",5,6,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",6,7,8,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",7,8,9,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",3,2,1,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",3,1,2,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",2,3,4,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",3,4,5,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",4,5,6,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",5,6,7,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",7,8,9,17)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("nph",8,9,10,18)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.391
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.394
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.392
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.393
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",6,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.394
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",7,6)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.367
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",8,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",9,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",10,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",11,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",12,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.084
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("pho",13,7)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   0.963
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.605
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.399
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.361
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.715
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",1,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   117.304
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",2,1,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.442
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",1,2,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.305
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",2,3,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.334
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",3,4,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.259
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",4,5,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.246
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("pho",6,7,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.097
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("pho",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("pho",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("pho",3,2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("pho",2,1,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("pho",3,2,1,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("pho",3,1,2,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("pho",1,2,3,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("pho",2,3,4,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("pho",3,4,5,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("pho",1,6,7,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.905
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.393
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.394
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.394
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.393
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",6,5)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.398
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",7,6)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.778
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",8,7)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.815
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",9,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",10,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",11,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",12,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",13,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",14,8)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",15,8)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tani",16,8)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.16
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.878
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.163
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.061
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",5,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.155
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",6,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   98.286
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",2,1,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.703
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",1,2,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.753
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",2,3,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.06
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",3,4,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.086
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",4,5,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.713
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",7,8,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   106.938
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",7,8,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.471
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tani",7,8,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.465
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.113
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.1560000000000059
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",3,4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.1560000000000059
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",4,5,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",5,6,7,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   91.18
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",3,2,1,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.426
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",3,1,2,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.709
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",1,2,3,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.808
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",2,3,4,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.618
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",3,4,5,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.551
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",6,7,8,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",6,7,8,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   60.996
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tani",6,7,8,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.096000000000004
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.391
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.393
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.393
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.392
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",6,5)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.397
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",7,6)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.77
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",8,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",9,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",10,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.081
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",11,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",12,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tpho",13,7)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.336
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.428
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.448
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.485
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.013
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",5,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   122.857
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",2,1,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.109
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",1,2,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.405
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",2,3,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.293
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",3,4,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.173
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",4,5,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.899
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tpho",6,7,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   96.126
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tpho",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tpho",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tpho",3,4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tpho",4,5,6,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tpho",3,2,1,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tpho",3,1,2,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tpho",1,2,3,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tpho",2,3,4,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tpho",3,4,5,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tpho",5,6,7,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.048
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dht",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.711
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dht",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.377
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dht",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.414
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dht",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.377
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dht",6,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.077
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dht",7,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.079
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dht",8,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.079
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dht",9,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.077
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dht",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.4
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dht",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   112.469
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dht",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   112.469
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dht",1,2,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.306
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dht",2,3,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   123.073
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dht",3,4,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   124.458
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dht",4,5,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   128.294
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dht",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dht",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dht",3,1,2,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dht",1,2,3,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dht",2,3,4,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dht",3,4,5,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmds",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.813
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmds",3,2)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmds",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.813
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmds",5,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmds",6,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmds",7,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.086
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmds",8,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmds",9,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmds",10,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.086
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmds",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   101.791
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmds",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   101.791
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmds",2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   106.439
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmds",2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.914
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmds",2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.238
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmds",3,4,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   106.439
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmds",3,4,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.913
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmds",3,4,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.238
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmds",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   85.10500000000002
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmds",3,2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   177.984
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmds",3,2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   63.411
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmds",3,2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   59.108000000000004
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmds",2,3,4,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   177.984
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmds",2,3,4,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   63.411
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmds",2,3,4,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   59.108000000000004
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmte",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.804
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmte",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.804
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmte",4,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmte",5,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmte",6,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmte",7,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmte",8,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmte",9,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmte",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   97.98
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmte",2,1,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.513
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmte",2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.817
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmte",2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.817
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmte",2,3,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.513
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmte",2,3,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.817
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmte",2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.817
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmte",3,2,1,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmte",3,2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.06
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmte",3,2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.06
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmte",1,2,3,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmte",1,2,3,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.06
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmte",1,2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.06
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmt",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.498
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmt",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.626
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmt",4,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.508
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmt",5,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.085
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmt",6,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.093
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmt",7,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.093
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmt",8,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmt",9,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("dmt",10,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmt",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   122.752
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmt",1,2,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   115.452
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmt",2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.737
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmt",2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.448
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmt",2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.448
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmt",2,4,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.983
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmt",2,4,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.835
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("dmt",2,4,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.835
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmt",3,1,2,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmt",3,2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmt",3,2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.827
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmt",3,2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.83
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmt",1,2,4,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmt",1,2,4,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.281
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("dmt",1,2,4,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.283
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("edt",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.827
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("edt",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.517
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("edt",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.818
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("edt",5,1)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.337
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("edt",6,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("edt",7,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("edt",8,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("edt",9,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("edt",10,4)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.337
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("edt",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.846
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("edt",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   112.473
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("edt",2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   96.467
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("edt",1,2,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.167
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("edt",1,2,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.639
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("edt",2,3,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.124
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("edt",2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.347
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("edt",3,4,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   96.141
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("edt",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   178.595
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("edt",3,2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   178.912
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("edt",3,1,2,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.03
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("edt",3,1,2,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.939
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("edt",1,2,3,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   57.814
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("edt",1,2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.565
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("edt",2,3,4,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   67.10399999999998
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("ett",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.518
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("ett",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.82
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("ett",4,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.09
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("ett",5,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("ett",6,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("ett",7,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("ett",8,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("ett",9,3)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.337
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("ett",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   113.419
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("ett",2,1,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.579
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("ett",2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.719
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("ett",2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.667
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("ett",1,2,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.459
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("ett",1,2,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.843
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("ett",2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   96.105
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("ett",3,2,1,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   177.495
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("ett",3,2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   62.764
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("ett",3,2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   56.920000000000016
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("ett",3,1,2,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   123.654
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("ett",3,1,2,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   116.912
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("ett",1,2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   60.980999999999995
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mesh",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.815
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mesh",3,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.085
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mesh",4,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.085
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mesh",5,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.086
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mesh",6,2)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.336
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mesh",2,1,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.317
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mesh",2,1,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.318
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mesh",2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   106.174
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mesh",1,2,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   96.627
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mesh",3,2,1,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   123.60399999999998
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mesh",3,2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   118.198
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mesh",3,1,2,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.802
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.805
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.812
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.52
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",5,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",6,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",7,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",8,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.09
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",9,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.09
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",10,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",11,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mete",12,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.088
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mete",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   98.426
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mete",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.539
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mete",2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.501
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mete",2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.833
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mete",2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.832
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mete",2,3,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.749
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mete",2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.749
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mete",3,4,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.776
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mete",3,4,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.446
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mete",3,4,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.777
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mete",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mete",3,2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mete",3,2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.08
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mete",3,2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.08800000000002
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mete",1,2,3,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   58.863
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mete",1,2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   58.83600000000001
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mete",2,3,4,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   60.019000000000005
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mete",2,3,4,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mete",2,3,4,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   60.029
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mte",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.508
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mte",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.634
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mte",4,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.737
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mte",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.795
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mte",6,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.086
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mte",7,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.09
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mte",8,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mte",9,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mte",10,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("mte",11,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mte",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   123.235
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mte",1,2,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.3
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mte",2,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   102.159
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mte",2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.739
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mte",2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.811
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mte",2,1,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.784
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mte",4,5,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   106.435
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mte",4,5,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.952
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("mte",4,5,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.782
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mte",3,1,2,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   178.419
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mte",1,2,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   177.102
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mte",3,2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   32.771
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mte",3,2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   85.45600000000002
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mte",3,2,1,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   155.098
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mte",2,4,5,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.699
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mte",2,4,5,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   60.374
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("mte",2,4,5,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   59.88299999999998
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("s8",2,1)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.059
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("s8",3,2)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.059
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("s8",4,3)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.059
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("s8",5,1)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.059
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("s8",6,5)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.059
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("s8",7,4)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.059
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("s8",8,6)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.059
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("s8",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.458
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("s8",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.456
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("s8",2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.461
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("s8",1,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.459
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("s8",3,4,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.459
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("s8",5,6,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   107.456
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("s8",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   99.44600000000003
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("s8",3,2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   99.384
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("s8",2,1,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   99.33299999999997
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("s8",2,3,4,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   99.394
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("s8",1,5,6,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   99.394
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("h2s",2,1)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.335
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("h2s",3,1)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.335
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("h2s",2,1,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   92.234
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.813
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.522
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.526
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.526
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",6,5)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.522
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",7,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",8,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.092
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",9,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.092
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",10,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.092
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",11,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.091
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",12,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.094
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",13,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.092
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",14,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.092
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",15,6)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("tch",16,6)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.092
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   112.4
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   112.099
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   112.9
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   112.098
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",1,2,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   105.743
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",1,2,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.893
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.972
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",2,3,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.959
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",3,4,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.585
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",3,4,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.956
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",4,5,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.722
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",4,5,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.483
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",5,6,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.317
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("tch",5,6,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.503
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.993
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   59.920000000000016
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",3,4,5,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   59.921
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",3,1,2,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.648
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",3,1,2,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   122.787
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",1,2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   59.65699999999998
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",1,2,3,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   176.668
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",2,3,4,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   177.633
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",2,3,4,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.273
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",3,4,5,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   61.298
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",3,4,5,14)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.041
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",4,5,6,15)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.59
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("tch",4,5,6,16)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   59.88
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("taa",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.503
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("taa",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.629
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("taa",4,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.753
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("taa",5,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.085
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("taa",6,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.091
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("taa",7,1)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.091
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("taa",8,4)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.341
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("taa",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   124.223
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("taa",1,2,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   116.308
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("taa",2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.833
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("taa",2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.027
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("taa",2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   110.028
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("taa",2,4,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   97.439
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("taa",3,1,2,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   179.974
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("taa",3,2,1,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("taa",3,2,1,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.70600000000002
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("taa",3,2,1,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   120.703
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("taa",1,2,4,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   0.02600000000001046
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",2,1)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.831
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",3,2)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.523
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",4,3)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.523
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",5,4)
+Weight: 0.02
+Unit: angstrom
+ReferenceValue: |
+   1.523
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",6,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",7,2)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",8,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.09
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",9,3)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.091
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",10,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.091
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",11,4)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.09
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",12,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.087
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("thp",13,5)
+Weight: 0.05
+Unit: angstrom
+ReferenceValue: |
+   1.089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",1,2,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   105.889
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   105.844
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   105.838
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",1,2,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.3
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",1,2,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   108.917
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",2,3,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.22
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.618
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",3,4,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   109.49
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",3,4,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   112.393
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",4,5,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   112.716
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("thp",4,5,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   111.032
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("thp",1,2,3,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   39.13099999999997
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("thp",2,3,4,5)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   51.185
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("thp",3,1,2,6)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   119.673
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("thp",3,1,2,7)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   121.467
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("thp",1,2,3,8)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   161.485
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("thp",1,2,3,9)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   78.855
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("thp",2,3,4,10)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   66.90199999999999
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("thp",2,3,4,11)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   172.767
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("thp",3,4,5,12)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   158.121
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("thp",3,4,5,13)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   79.4
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("hssh",2,1)
+Weight: 0.01
+Unit: angstrom
+ReferenceValue: |
+   2.066
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("hssh",3,1)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.34
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: distance("hssh",4,2)
+Weight: 0.04
+Unit: angstrom
+ReferenceValue: |
+   1.34
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("hssh",2,1,3)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   97.793
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: angle("hssh",1,2,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   97.793
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: dihedral("hssh",3,1,2,4)
+Weight: 3.0
+Unit: deg
+ReferenceValue: |
+   90.644
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-001")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -11.91159
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-002")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -8.93331
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-003")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -6.48259
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-004")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -4.51347
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-005")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -2.95406
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-006")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -1.77772
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-007")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -0.92774
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-008")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -0.37397
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-009")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -0.07205
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-010")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -0.0
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-011")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -0.1405
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-012")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -0.45014
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-013")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -0.91742
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-014")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -1.5212
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-015")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -2.24569
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-016")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -3.07089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-017")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -3.98737
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-018")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -4.9774
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-019")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -6.03006
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-020")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -7.13376
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-021")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -8.2831
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-022")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -9.42814
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-023")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -10.53995
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-024")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -11.86986
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-025")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -13.05434
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-026")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -14.23956
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-027")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -15.36956
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-028")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -16.51843
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-029")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -17.76636
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-030")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -19.05397
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-031")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -20.33883
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-032")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -21.56807
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-033")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -22.80344
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-034")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -24.01591
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-035")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -25.17733
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-037")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -27.45513
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-038")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -28.57109
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-039")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -29.63479
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-040")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -30.68467
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-041")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -31.70396
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-042")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -32.70589
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-043")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -33.65852
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-044")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -34.59063
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-045")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -35.50866
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-046")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -36.37231
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-047")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -37.22492
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-048")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -38.05168
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-049")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -38.83762
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-050")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -39.59262
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-051")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -40.33786
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-052")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -41.02912
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-053")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -41.72282
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-054")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -42.36077
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-055")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -42.97834
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-056")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -43.5959
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-057")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -44.16705
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-058")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -44.69341
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-059")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -45.21625
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-060")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -45.69011
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-061")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -46.14518
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-062")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -46.52244
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-063")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -46.91671
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-064")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -47.18535
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-065")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -47.49523
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-066")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -47.79528
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-067")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -48.12109
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-068")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -48.50773
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-069")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -48.845
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-070")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -49.2008
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-071")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -49.49686
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-072")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -49.79168
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-073")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -50.06802
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-074")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -50.33962
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-075")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -50.58515
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-076")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -50.81656
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-077")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -51.02359
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-078")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -51.23069
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-079")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -51.42611
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-080")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -51.61134
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-081")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -51.78651
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-082")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -51.95246
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-083")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.11007
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-084")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.25937
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-085")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.40122
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-086")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.54686
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-087")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.67375
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-088")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.79508
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-089")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.91127
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-090")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.02151
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-091")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.12688
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-092")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.23571
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-093")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.33135
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-094")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.42377
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-095")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.51175
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-096")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.59616
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-097")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.67719
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-098")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.75518
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-099")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.83035
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SS85-100")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.9026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-001")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -25.86971
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-002")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -22.40137
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-003")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -19.38543
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-004")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -16.80709
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-005")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -14.89582
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-006")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -13.36021
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-007")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -12.15274
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-008")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -11.24598
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-009")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -10.60734
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-010")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -10.20053
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-011")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -9.99809
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-012")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -10.00638
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-013")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -10.15469
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-014")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -10.46585
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-015")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -10.89026
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-016")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -11.45233
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-017")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -12.07397
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-018")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -12.83471
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-019")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -13.62098
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-020")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -14.47962
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-021")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -15.38762
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-022")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -16.34757
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-023")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -17.33172
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-024")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -18.34542
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-025")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -19.37628
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-026")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -20.42747
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-027")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -21.46455
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-028")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -22.51723
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-029")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -23.58312
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-030")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -24.60514
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-031")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -25.66206
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-032")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -26.71022
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-033")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -27.71829
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-034")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -28.73345
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-035")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -29.75229
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-036")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -30.69474
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-037")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -31.65621
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-038")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -32.60479
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-039")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -33.52686
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-040")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -34.41243
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-041")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -35.29177
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-042")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -36.16082
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-043")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -36.97818
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-044")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -37.82032
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-045")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -38.60307
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-046")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -39.35764
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-047")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -40.10095
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-048")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -40.81581
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-049")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -41.51241
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-050")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -42.18473
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-051")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -42.83013
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-052")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -43.45187
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-053")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -44.05057
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-054")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -44.62621
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-055")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -45.17296
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-056")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -45.70049
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-057")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -46.20579
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-058")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -46.6798
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-059")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -47.14186
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-060")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -47.58645
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-061")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -48.00832
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-062")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -48.40547
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-063")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -48.78469
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-064")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -49.14728
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-065")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -49.49172
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-066")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -49.8181
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-067")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -50.12837
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-068")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -50.4259
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-069")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -50.71743
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-070")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -50.98287
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-071")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -51.24467
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-072")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -51.48089
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-073")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -51.71042
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-074")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -51.92507
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-075")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.1332
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-076")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.31586
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-077")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.50639
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-078")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.66689
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-079")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -52.84926
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-080")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.00858
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-081")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.16004
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-082")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.30353
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-083")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.43856
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-084")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.56617
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-085")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.68839
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-086")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.80387
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-087")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -53.91371
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-088")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.03045
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-089")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.12985
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-090")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.21278
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-091")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.30343
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-092")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.38944
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-093")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.48039
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-094")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.55739
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-095")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.63191
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-096")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.70397
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-097")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.7714
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-098")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.83705
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-099")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.89913
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+---
+Expression: +energy("ssgr")/1-energy("SSOP-100")/1
+Weight: 1.0
+Unit: kcal/mol
+ReferenceValue: |
+   -54.95796
+Source: 'https://doi.org/10.1021/acs.jctc.6b00461'
+...
