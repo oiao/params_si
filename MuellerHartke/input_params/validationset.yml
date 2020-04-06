@@ -160,154 +160,154 @@ ReferenceValue: |
    1.082
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",1,2,3)
+Expression: angles("dpds",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.258
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",2,3,4)
+Expression: angles("dpds",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.023
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",3,4,5)
+Expression: angles("dpds",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.103
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",4,5,6)
+Expression: angles("dpds",(4,5,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.739
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",5,6,7)
+Expression: angles("dpds",(5,6,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    118.692
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",6,7,8)
+Expression: angles("dpds",(6,7,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    98.809
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",7,8,9)
+Expression: angles("dpds",(7,8,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    98.807
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",8,9,10)
+Expression: angles("dpds",(8,9,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    121.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",9,10,11)
+Expression: angles("dpds",(9,10,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.628
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",10,11,12)
+Expression: angles("dpds",(10,11,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.257
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",11,12,13)
+Expression: angles("dpds",(11,12,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.023
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",12,13,14)
+Expression: angles("dpds",(12,13,14))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.103
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",2,1,15)
+Expression: angles("dpds",(2,1,15))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.954
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",1,2,16)
+Expression: angles("dpds",(1,2,16))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.733
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",2,3,17)
+Expression: angles("dpds",(2,3,17))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.937
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",3,4,18)
+Expression: angles("dpds",(3,4,18))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.175
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",4,5,19)
+Expression: angles("dpds",(4,5,19))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.931
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",9,10,20)
+Expression: angles("dpds",(9,10,20))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.417
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",10,11,21)
+Expression: angles("dpds",(10,11,21))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.733
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",11,12,22)
+Expression: angles("dpds",(11,12,22))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.935
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",12,13,23)
+Expression: angles("dpds",(12,13,23))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.176
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpds",13,14,24)
+Expression: angles("dpds",(13,14,24))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -622,154 +622,154 @@ ReferenceValue: |
    1.082
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",1,2,3)
+Expression: angles("dpt",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.267
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",2,3,4)
+Expression: angles("dpt",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.742
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",3,4,5)
+Expression: angles("dpt",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.218
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",2,1,6)
+Expression: angles("dpt",(2,1,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.36
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",1,6,7)
+Expression: angles("dpt",(1,6,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.681
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",6,7,8)
+Expression: angles("dpt",(6,7,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    121.508
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",6,7,9)
+Expression: angles("dpt",(6,7,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    116.988
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",7,9,10)
+Expression: angles("dpt",(7,9,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.685
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",9,10,11)
+Expression: angles("dpt",(9,10,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.358
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",10,11,12)
+Expression: angles("dpt",(10,11,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.268
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",11,12,13)
+Expression: angles("dpt",(11,12,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.741
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",12,13,14)
+Expression: angles("dpt",(12,13,14))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.217
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",2,1,15)
+Expression: angles("dpt",(2,1,15))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.993
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",1,2,16)
+Expression: angles("dpt",(1,2,16))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.737
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",2,3,17)
+Expression: angles("dpt",(2,3,17))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.136
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",3,4,18)
+Expression: angles("dpt",(3,4,18))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.079
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",4,5,19)
+Expression: angles("dpt",(4,5,19))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.173
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",9,10,20)
+Expression: angles("dpt",(9,10,20))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    118.657
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",10,11,21)
+Expression: angles("dpt",(10,11,21))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.734
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",11,12,22)
+Expression: angles("dpt",(11,12,22))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.138
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",12,13,23)
+Expression: angles("dpt",(12,13,23))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.076
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpt",13,14,24)
+Expression: angles("dpt",(13,14,24))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -1049,119 +1049,119 @@ ReferenceValue: |
    1.081
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",1,2,3)
+Expression: angles("epe",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    107.074
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",2,3,4)
+Expression: angles("epe",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    116.841
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",3,4,5)
+Expression: angles("epe",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    124.547
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",4,5,6)
+Expression: angles("epe",(4,5,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.477
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",5,6,7)
+Expression: angles("epe",(5,6,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.927
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",6,7,8)
+Expression: angles("epe",(6,7,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.236
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",7,8,9)
+Expression: angles("epe",(7,8,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.42
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",2,1,10)
+Expression: angles("epe",(2,1,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.128
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",2,1,11)
+Expression: angles("epe",(2,1,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.335
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",2,1,12)
+Expression: angles("epe",(2,1,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.344
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",1,2,13)
+Expression: angles("epe",(1,2,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.032
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",1,2,14)
+Expression: angles("epe",(1,2,14))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.039
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",4,5,15)
+Expression: angles("epe",(4,5,15))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    121.125
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",5,6,16)
+Expression: angles("epe",(5,6,16))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    118.99
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",6,7,17)
+Expression: angles("epe",(6,7,17))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.352
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",7,8,18)
+Expression: angles("epe",(7,8,18))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.189
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("epe",8,9,19)
+Expression: angles("epe",(8,9,19))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -1455,168 +1455,168 @@ ReferenceValue: |
    1.082
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",1,2,3)
+Expression: angles("dpods",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.458
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",2,3,4)
+Expression: angles("dpods",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.272
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",3,4,5)
+Expression: angles("dpods",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.625
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",4,5,6)
+Expression: angles("dpods",(4,5,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    122.177
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",2,1,7)
+Expression: angles("dpods",(2,1,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.755
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",1,7,8)
+Expression: angles("dpods",(1,7,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.57
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",7,8,9)
+Expression: angles("dpods",(7,8,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    98.142
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",8,9,10)
+Expression: angles("dpods",(8,9,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    99.166
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",9,10,11)
+Expression: angles("dpods",(9,10,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.778
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",10,11,12)
+Expression: angles("dpods",(10,11,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    122.17
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",10,11,13)
+Expression: angles("dpods",(10,11,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.237
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",11,13,14)
+Expression: angles("dpods",(11,13,14))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.112
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",13,14,15)
+Expression: angles("dpods",(13,14,15))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.779
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",14,15,16)
+Expression: angles("dpods",(14,15,16))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.471
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",2,1,17)
+Expression: angles("dpods",(2,1,17))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.925
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",1,2,18)
+Expression: angles("dpods",(1,2,18))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.14
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",2,3,19)
+Expression: angles("dpods",(2,3,19))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.281
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",3,4,20)
+Expression: angles("dpods",(3,4,20))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.221
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",5,6,21)
+Expression: angles("dpods",(5,6,21))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    108.212
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",11,12,22)
+Expression: angles("dpods",(11,12,22))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    106.315
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",11,13,23)
+Expression: angles("dpods",(11,13,23))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    118.593
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",13,14,24)
+Expression: angles("dpods",(13,14,24))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.215
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",14,15,25)
+Expression: angles("dpods",(14,15,25))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.484
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dpods",15,16,26)
+Expression: angles("dpods",(15,16,26))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -1875,84 +1875,84 @@ ReferenceValue: |
    1.336
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",1,2,3)
+Expression: angles("htp",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.823
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",2,3,4)
+Expression: angles("htp",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.666
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",3,4,5)
+Expression: angles("htp",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.593
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",4,5,6)
+Expression: angles("htp",(4,5,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    122.368
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",2,1,7)
+Expression: angles("htp",(2,1,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.971
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",1,7,8)
+Expression: angles("htp",(1,7,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    118.908
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",2,1,9)
+Expression: angles("htp",(2,1,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.16
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",1,2,10)
+Expression: angles("htp",(1,2,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.751
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",2,3,11)
+Expression: angles("htp",(2,3,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.63
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",3,4,12)
+Expression: angles("htp",(3,4,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.232
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",5,6,13)
+Expression: angles("htp",(5,6,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    108.096
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("htp",7,8,14)
+Expression: angles("htp",(7,8,14))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -2155,112 +2155,112 @@ ReferenceValue: |
    1.082
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",1,2,3)
+Expression: angles("nph",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.712
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",2,3,4)
+Expression: angles("nph",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    122.034
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",3,4,5)
+Expression: angles("nph",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.711
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",4,5,6)
+Expression: angles("nph",(4,5,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.306
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",5,6,7)
+Expression: angles("nph",(5,6,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.306
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",6,7,8)
+Expression: angles("nph",(6,7,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.711
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",7,8,9)
+Expression: angles("nph",(7,8,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    122.034
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",8,9,10)
+Expression: angles("nph",(8,9,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.711
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",2,1,11)
+Expression: angles("nph",(2,1,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.95
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",1,2,12)
+Expression: angles("nph",(1,2,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.423
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",3,4,13)
+Expression: angles("nph",(3,4,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    118.866
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",4,5,14)
+Expression: angles("nph",(4,5,14))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.95
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",5,6,15)
+Expression: angles("nph",(5,6,15))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.745
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",6,7,16)
+Expression: angles("nph",(6,7,16))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.423
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",8,9,17)
+Expression: angles("nph",(8,9,17))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    118.866
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("nph",9,10,18)
+Expression: angles("nph",(9,10,18))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -2456,77 +2456,77 @@ ReferenceValue: |
    0.963
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",1,2,3)
+Expression: angles("pho",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.605
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",2,3,4)
+Expression: angles("pho",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.399
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",3,4,5)
+Expression: angles("pho",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.361
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",2,1,6)
+Expression: angles("pho",(2,1,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.715
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",1,6,7)
+Expression: angles("pho",(1,6,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    117.304
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",2,1,8)
+Expression: angles("pho",(2,1,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    121.442
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",1,2,9)
+Expression: angles("pho",(1,2,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.305
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",2,3,10)
+Expression: angles("pho",(2,3,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.334
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",3,4,11)
+Expression: angles("pho",(3,4,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.259
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",4,5,12)
+Expression: angles("pho",(4,5,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.246
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("pho",6,7,13)
+Expression: angles("pho",(6,7,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -2708,98 +2708,98 @@ ReferenceValue: |
    1.087
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",1,2,3)
+Expression: angles("tani",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.16
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",2,3,4)
+Expression: angles("tani",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.878
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",3,4,5)
+Expression: angles("tani",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.163
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",4,5,6)
+Expression: angles("tani",(4,5,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.061
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",5,6,7)
+Expression: angles("tani",(5,6,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.155
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",6,7,8)
+Expression: angles("tani",(6,7,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    98.286
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",2,1,9)
+Expression: angles("tani",(2,1,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.703
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",1,2,10)
+Expression: angles("tani",(1,2,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.753
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",2,3,11)
+Expression: angles("tani",(2,3,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.06
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",3,4,12)
+Expression: angles("tani",(3,4,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.086
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",4,5,13)
+Expression: angles("tani",(4,5,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.713
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",7,8,14)
+Expression: angles("tani",(7,8,14))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    106.938
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",7,8,15)
+Expression: angles("tani",(7,8,15))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.471
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tani",7,8,16)
+Expression: angles("tani",(7,8,16))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -2981,77 +2981,77 @@ ReferenceValue: |
    1.336
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",1,2,3)
+Expression: angles("tpho",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.428
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",2,3,4)
+Expression: angles("tpho",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.448
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",3,4,5)
+Expression: angles("tpho",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.485
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",4,5,6)
+Expression: angles("tpho",(4,5,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.013
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",5,6,7)
+Expression: angles("tpho",(5,6,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    122.857
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",2,1,8)
+Expression: angles("tpho",(2,1,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.109
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",1,2,9)
+Expression: angles("tpho",(1,2,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.405
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",2,3,10)
+Expression: angles("tpho",(2,3,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.293
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",3,4,11)
+Expression: angles("tpho",(3,4,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.173
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",4,5,12)
+Expression: angles("tpho",(4,5,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    119.899
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tpho",6,7,13)
+Expression: angles("tpho",(6,7,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -3184,49 +3184,49 @@ ReferenceValue: |
    1.077
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dht",1,2,3)
+Expression: angles("dht",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.4
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dht",2,3,4)
+Expression: angles("dht",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    112.469
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dht",3,4,5)
+Expression: angles("dht",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    112.469
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dht",1,2,6)
+Expression: angles("dht",(1,2,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    120.306
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dht",2,3,7)
+Expression: angles("dht",(2,3,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    123.073
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dht",3,4,8)
+Expression: angles("dht",(3,4,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    124.458
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dht",4,5,9)
+Expression: angles("dht",(4,5,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -3338,56 +3338,56 @@ ReferenceValue: |
    1.086
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmds",1,2,3)
+Expression: angles("dmds",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    101.791
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmds",2,3,4)
+Expression: angles("dmds",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    101.791
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmds",2,1,5)
+Expression: angles("dmds",(2,1,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    106.439
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmds",2,1,6)
+Expression: angles("dmds",(2,1,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.914
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmds",2,1,7)
+Expression: angles("dmds",(2,1,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.238
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmds",3,4,8)
+Expression: angles("dmds",(3,4,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    106.439
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmds",3,4,9)
+Expression: angles("dmds",(3,4,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.913
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmds",3,4,10)
+Expression: angles("dmds",(3,4,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -3499,49 +3499,49 @@ ReferenceValue: |
    1.088
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmte",1,2,3)
+Expression: angles("dmte",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    97.98
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmte",2,1,4)
+Expression: angles("dmte",(2,1,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    107.513
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmte",2,1,5)
+Expression: angles("dmte",(2,1,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.817
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmte",2,1,6)
+Expression: angles("dmte",(2,1,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.817
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmte",2,3,7)
+Expression: angles("dmte",(2,3,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    107.513
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmte",2,3,8)
+Expression: angles("dmte",(2,3,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.817
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmte",2,3,9)
+Expression: angles("dmte",(2,3,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -3653,56 +3653,56 @@ ReferenceValue: |
    1.089
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmt",1,2,3)
+Expression: angles("dmt",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    122.752
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmt",1,2,4)
+Expression: angles("dmt",(1,2,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    115.452
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmt",2,1,5)
+Expression: angles("dmt",(2,1,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.737
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmt",2,1,6)
+Expression: angles("dmt",(2,1,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.448
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmt",2,1,7)
+Expression: angles("dmt",(2,1,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.448
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmt",2,4,8)
+Expression: angles("dmt",(2,4,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.983
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmt",2,4,9)
+Expression: angles("dmt",(2,4,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.835
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("dmt",2,4,10)
+Expression: angles("dmt",(2,4,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -3821,56 +3821,56 @@ ReferenceValue: |
    1.337
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("edt",1,2,3)
+Expression: angles("edt",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    107.846
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("edt",2,3,4)
+Expression: angles("edt",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    112.473
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("edt",2,1,5)
+Expression: angles("edt",(2,1,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    96.467
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("edt",1,2,6)
+Expression: angles("edt",(1,2,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.167
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("edt",1,2,7)
+Expression: angles("edt",(1,2,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.639
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("edt",2,3,8)
+Expression: angles("edt",(2,3,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.124
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("edt",2,3,9)
+Expression: angles("edt",(2,3,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.347
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("edt",3,4,10)
+Expression: angles("edt",(3,4,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -3982,49 +3982,49 @@ ReferenceValue: |
    1.337
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("ett",1,2,3)
+Expression: angles("ett",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    113.419
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("ett",2,1,4)
+Expression: angles("ett",(2,1,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.579
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("ett",2,1,5)
+Expression: angles("ett",(2,1,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.719
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("ett",2,1,6)
+Expression: angles("ett",(2,1,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.667
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("ett",1,2,7)
+Expression: angles("ett",(1,2,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.459
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("ett",1,2,8)
+Expression: angles("ett",(1,2,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.843
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("ett",2,3,9)
+Expression: angles("ett",(2,3,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -4108,28 +4108,28 @@ ReferenceValue: |
    1.336
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mesh",2,1,3)
+Expression: angles("mesh",(2,1,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.317
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mesh",2,1,4)
+Expression: angles("mesh",(2,1,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.318
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mesh",2,1,5)
+Expression: angles("mesh",(2,1,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    106.174
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mesh",1,2,6)
+Expression: angles("mesh",(1,2,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -4234,70 +4234,70 @@ ReferenceValue: |
    1.088
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mete",1,2,3)
+Expression: angles("mete",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    98.426
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mete",2,3,4)
+Expression: angles("mete",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.539
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mete",2,1,5)
+Expression: angles("mete",(2,1,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    107.501
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mete",2,1,6)
+Expression: angles("mete",(2,1,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.833
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mete",2,1,7)
+Expression: angles("mete",(2,1,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.832
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mete",2,3,8)
+Expression: angles("mete",(2,3,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    108.749
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mete",2,3,9)
+Expression: angles("mete",(2,3,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    108.749
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mete",3,4,10)
+Expression: angles("mete",(3,4,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.776
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mete",3,4,11)
+Expression: angles("mete",(3,4,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.446
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mete",3,4,12)
+Expression: angles("mete",(3,4,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -4437,63 +4437,63 @@ ReferenceValue: |
    1.087
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mte",1,2,3)
+Expression: angles("mte",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    123.235
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mte",1,2,4)
+Expression: angles("mte",(1,2,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.3
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mte",2,4,5)
+Expression: angles("mte",(2,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    102.159
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mte",2,1,6)
+Expression: angles("mte",(2,1,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.739
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mte",2,1,7)
+Expression: angles("mte",(2,1,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    108.811
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mte",2,1,8)
+Expression: angles("mte",(2,1,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.784
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mte",4,5,9)
+Expression: angles("mte",(4,5,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    106.435
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mte",4,5,10)
+Expression: angles("mte",(4,5,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.952
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("mte",4,5,11)
+Expression: angles("mte",(4,5,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -4605,42 +4605,42 @@ ReferenceValue: |
    2.059
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("s8",1,2,3)
+Expression: angles("s8",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    107.458
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("s8",2,3,4)
+Expression: angles("s8",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    107.456
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("s8",2,1,5)
+Expression: angles("s8",(2,1,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    107.461
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("s8",1,5,6)
+Expression: angles("s8",(1,5,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    107.459
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("s8",3,4,7)
+Expression: angles("s8",(3,4,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    107.459
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("s8",5,6,8)
+Expression: angles("s8",(5,6,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -4696,7 +4696,7 @@ ReferenceValue: |
    1.335
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("h2s",2,1,3)
+Expression: angles("h2s",(2,1,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -4808,98 +4808,98 @@ ReferenceValue: |
    1.092
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",1,2,3)
+Expression: angles("tch",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    112.4
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",2,3,4)
+Expression: angles("tch",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    112.099
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",3,4,5)
+Expression: angles("tch",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    112.9
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",4,5,6)
+Expression: angles("tch",(4,5,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    112.098
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",1,2,7)
+Expression: angles("tch",(1,2,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    105.743
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",1,2,8)
+Expression: angles("tch",(1,2,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    108.893
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",2,3,9)
+Expression: angles("tch",(2,3,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    108.972
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",2,3,10)
+Expression: angles("tch",(2,3,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    108.959
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",3,4,11)
+Expression: angles("tch",(3,4,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.585
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",3,4,12)
+Expression: angles("tch",(3,4,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    108.956
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",4,5,13)
+Expression: angles("tch",(4,5,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.722
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",4,5,14)
+Expression: angles("tch",(4,5,14))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.483
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",5,6,15)
+Expression: angles("tch",(5,6,15))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.317
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("tch",5,6,16)
+Expression: angles("tch",(5,6,16))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -5046,42 +5046,42 @@ ReferenceValue: |
    1.341
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("taa",1,2,3)
+Expression: angles("taa",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    124.223
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("taa",1,2,4)
+Expression: angles("taa",(1,2,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    116.308
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("taa",2,1,5)
+Expression: angles("taa",(2,1,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.833
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("taa",2,1,6)
+Expression: angles("taa",(2,1,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.027
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("taa",2,1,7)
+Expression: angles("taa",(2,1,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    110.028
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("taa",2,4,8)
+Expression: angles("taa",(2,4,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -5207,77 +5207,77 @@ ReferenceValue: |
    1.089
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",1,2,3)
+Expression: angles("thp",(1,2,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    105.889
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",2,3,4)
+Expression: angles("thp",(2,3,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    105.844
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",3,4,5)
+Expression: angles("thp",(3,4,5))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    105.838
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",1,2,6)
+Expression: angles("thp",(1,2,6))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.3
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",1,2,7)
+Expression: angles("thp",(1,2,7))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    108.917
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",2,3,8)
+Expression: angles("thp",(2,3,8))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    111.22
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",2,3,9)
+Expression: angles("thp",(2,3,9))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.618
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",3,4,10)
+Expression: angles("thp",(3,4,10))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    109.49
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",3,4,11)
+Expression: angles("thp",(3,4,11))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    112.393
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",4,5,12)
+Expression: angles("thp",(4,5,12))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    112.716
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("thp",4,5,13)
+Expression: angles("thp",(4,5,13))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
@@ -5375,14 +5375,14 @@ ReferenceValue: |
    1.34
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("hssh",2,1,3)
+Expression: angles("hssh",(2,1,3))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
    97.793
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angle("hssh",1,2,4)
+Expression: angles("hssh",(1,2,4))
 Weight: 3.0
 Unit: deg
 ReferenceValue: |
