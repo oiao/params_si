@@ -30,14 +30,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -74,14 +66,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -120,14 +104,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -164,14 +140,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -210,14 +178,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -254,14 +214,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -300,14 +252,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -344,14 +288,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -390,14 +326,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -434,14 +362,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -480,14 +400,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -524,14 +436,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -570,14 +474,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -614,14 +510,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -660,14 +548,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -704,14 +584,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -750,14 +622,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -794,14 +658,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -840,14 +696,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -884,14 +732,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -930,14 +770,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -974,14 +806,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1020,14 +844,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1064,14 +880,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1110,14 +918,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1154,14 +954,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1200,14 +992,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1244,14 +1028,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1290,14 +1066,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1334,14 +1102,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1380,14 +1140,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1424,14 +1176,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1470,14 +1214,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1514,14 +1250,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1560,14 +1288,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1604,14 +1324,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1650,14 +1362,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1694,14 +1398,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1740,14 +1436,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1784,14 +1472,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1830,14 +1510,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1874,14 +1546,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -1920,14 +1584,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -1964,14 +1620,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2010,14 +1658,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2054,14 +1694,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2100,14 +1732,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2144,14 +1768,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2190,14 +1806,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2234,14 +1842,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2280,14 +1880,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2324,14 +1916,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2370,14 +1954,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2414,14 +1990,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2460,14 +2028,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2504,14 +2064,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2550,14 +2102,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2594,14 +2138,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2640,14 +2176,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2684,14 +2212,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2730,14 +2250,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2774,14 +2286,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2820,14 +2324,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2864,14 +2360,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -2910,14 +2398,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -2954,14 +2434,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3000,14 +2472,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3044,14 +2508,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3090,14 +2546,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3134,14 +2582,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3180,14 +2620,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3224,14 +2656,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3270,14 +2694,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3314,14 +2730,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3360,14 +2768,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3404,14 +2804,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3450,14 +2842,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3494,14 +2878,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3540,14 +2916,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3584,14 +2952,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3630,14 +2990,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3674,14 +3026,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3720,14 +3064,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3764,14 +3100,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3810,14 +3138,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3854,14 +3174,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3900,14 +3212,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -3944,14 +3248,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -3990,14 +3286,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4034,14 +3322,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4080,14 +3360,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4124,14 +3396,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4170,14 +3434,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4214,14 +3470,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4260,14 +3508,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4304,14 +3544,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4350,14 +3582,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4394,14 +3618,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4440,14 +3656,6 @@ AMSInput: |
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4484,14 +3692,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4530,14 +3730,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4574,14 +3766,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4620,14 +3804,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4664,14 +3840,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4710,14 +3878,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4754,14 +3914,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4800,14 +3952,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4844,14 +3988,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4890,14 +4026,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -4934,14 +4062,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -4980,14 +4100,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5024,14 +4136,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5070,14 +4174,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5114,14 +4210,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5160,14 +4248,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5204,14 +4284,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5250,14 +4322,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5294,14 +4358,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5340,14 +4396,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5384,14 +4432,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5430,14 +4470,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5474,14 +4506,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5520,14 +4544,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5564,14 +4580,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5610,14 +4618,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5654,14 +4654,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5700,14 +4692,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5744,14 +4728,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5790,14 +4766,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5834,14 +4802,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5880,14 +4840,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -5924,14 +4876,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -5970,14 +4914,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6014,14 +4950,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6060,14 +4988,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6104,14 +5024,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6150,14 +5062,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6194,14 +5098,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6240,14 +5136,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6284,14 +5172,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6330,14 +5210,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6374,14 +5246,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6420,14 +5284,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6464,14 +5320,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6510,14 +5358,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6554,14 +5394,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6600,14 +5432,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6644,14 +5468,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6690,14 +5506,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6734,14 +5542,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6780,14 +5580,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6824,14 +5616,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6870,14 +5654,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -6914,14 +5690,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -6960,14 +5728,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7004,14 +5764,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7050,14 +5802,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7094,14 +5838,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7140,14 +5876,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7184,14 +5912,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7230,14 +5950,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7274,14 +5986,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7320,14 +6024,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7364,14 +6060,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7410,14 +6098,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7454,14 +6134,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7500,14 +6172,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7544,14 +6208,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7590,14 +6246,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7634,14 +6282,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7680,14 +6320,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7724,14 +6356,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7770,14 +6394,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7814,14 +6430,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7860,14 +6468,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7904,14 +6504,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -7950,14 +6542,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -7994,14 +6578,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8040,14 +6616,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8084,14 +6652,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8130,14 +6690,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8174,14 +6726,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8220,14 +6764,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8264,14 +6800,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8310,14 +6838,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8354,14 +6874,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8400,14 +6912,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8444,14 +6948,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8490,14 +6986,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8534,14 +7022,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8580,14 +7060,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8624,14 +7096,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8670,14 +7134,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8714,14 +7170,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8760,14 +7208,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8804,14 +7244,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8850,14 +7282,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8894,14 +7318,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -8940,14 +7356,6 @@ AMSInput: |
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -8984,14 +7392,6 @@ AMSInput: |
                  H     47.3245000000     52.0417800000     50.4571500000 
                  H     49.8083200000     52.1076200000     50.3774800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9249,14 +7649,6 @@ AMSInput: |
                  H      2.5695900000      2.3157700000      1.8002500000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9279,14 +7671,6 @@ AMSInput: |
                  H      0.9460700000      2.1616700000      2.2313800000 
                  H      2.6695900000      2.3157700000      1.8002500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9311,14 +7695,6 @@ AMSInput: |
                  H      2.7695900000      2.3157700000      1.8002500000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9341,14 +7717,6 @@ AMSInput: |
                  H      1.2460700000      2.1616700000      2.2313800000 
                  H      2.9695900000      2.3157700000      1.8002500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9373,14 +7741,6 @@ AMSInput: |
                  H     11.0695900000      2.3157700000      1.8002500000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9403,14 +7763,6 @@ AMSInput: |
                  H      1.3460700000      2.1616700000      2.2313800000 
                  H      3.0695900000      2.3157700000      1.8002500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9435,14 +7787,6 @@ AMSInput: |
                  H      3.1695900000      2.3157700000      1.8002500000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9465,14 +7809,6 @@ AMSInput: |
                  H      1.5960700000      2.1616700000      2.2313800000 
                  H      3.3195900000      2.3157700000      1.8002500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9497,14 +7833,6 @@ AMSInput: |
                  H      3.5695900000      2.3157700000      1.8002500000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9527,14 +7855,6 @@ AMSInput: |
                  H      2.0960700000      2.1616700000      2.2313800000 
                  H      3.8195900000      2.3157700000      1.8002500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9559,14 +7879,6 @@ AMSInput: |
                  H      4.0695900000      2.3157700000      1.8002500000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9589,14 +7901,6 @@ AMSInput: |
                  H      2.8460700000      2.1616700000      2.2313800000 
                  H      4.5695900000      2.3157700000      1.8002500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9621,14 +7925,6 @@ AMSInput: |
                  H      5.0695900000      2.3157700000      1.8002500000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9651,14 +7947,6 @@ AMSInput: |
                  H      4.3460700000      2.1616700000      2.2313800000 
                  H      6.0695900000      2.3157700000      1.8002500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9683,14 +7971,6 @@ AMSInput: |
                  H      8.5695900000      2.3157700000      1.8002500000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9713,14 +7993,6 @@ AMSInput: |
                  H      0.1851800000     -0.8968900000      2.7281800000 
                  H      0.1844000000      0.8948600000      2.7283700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9745,14 +8017,6 @@ AMSInput: |
                  H      0.0487700000      0.4789200000      2.7197200000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9775,14 +8039,6 @@ AMSInput: |
                  H      3.4414300000     -2.0556800000      1.6901800000 
                  H      1.7293400000     -2.3699400000      2.0893700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9807,14 +8063,6 @@ AMSInput: |
                  H      3.0521200000     -2.2153100000      1.7603900000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9837,14 +8085,6 @@ AMSInput: |
                  H      4.3425000000      0.4926700000      1.5746900000 
                  H      4.0316200000     -1.2681900000      1.6110400000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9869,14 +8109,6 @@ AMSInput: |
                  H      4.2140000000     -0.8953200000      1.5904300000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9899,14 +8131,6 @@ AMSInput: |
                  H      4.0316200000      1.2681800000      1.6110000000 
                  H      4.3425100000     -0.4926800000      1.5747200000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9931,14 +8155,6 @@ AMSInput: |
                  H      4.2985700000      0.9499500000      1.5660600000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -9961,14 +8177,6 @@ AMSInput: |
                  H      1.7293500000      2.3699300000      2.0893700000 
                  H      3.4414500000      2.0556900000      1.6901900000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -9993,14 +8201,6 @@ AMSInput: |
                  H      3.0738100000      2.2439000000      1.7610400000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10023,14 +8223,6 @@ AMSInput: |
                  H      0.9641200000      2.0505900000      2.2601400000 
                  H      2.6711800000      2.3639700000      1.8359700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10055,14 +8247,6 @@ AMSInput: |
                  H      1.2331000000      2.1929900000      2.1392800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10085,14 +8269,6 @@ AMSInput: |
                  H      0.0487500000     -0.4789000000      2.7196700000 
                  H      0.3661600000      1.2839600000      2.6825200000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10117,14 +8293,6 @@ AMSInput: |
                  H      0.1864900000      0.9000300000      2.7282800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10147,14 +8315,6 @@ AMSInput: |
                  H      1.2331000000     -2.1930500000      2.1393000000 
                  H      0.0827500000     -0.9044000000      2.6096400000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10179,14 +8339,6 @@ AMSInput: |
                  H      0.9641300000     -2.0506100000      2.2601800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10209,14 +8361,6 @@ AMSInput: |
                  H      3.0738400000     -2.2438800000      1.7610700000 
                  H      1.3364400000     -2.2455400000      2.1753900000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10241,14 +8385,6 @@ AMSInput: |
                  H      2.8120300000      2.3157700000      1.4619300000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10271,14 +8407,6 @@ AMSInput: |
                  H      1.1089500000      2.1616700000      1.9909500000 
                  H      2.8324700000      2.3157700000      1.5598200000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10303,14 +8431,6 @@ AMSInput: |
                  H      2.8529000000      2.3157700000      1.6577100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10333,14 +8453,6 @@ AMSInput: |
                  H      2.7846000000      2.1616700000     10.0179100000 
                  H      4.5081100000      2.3157700000      9.5867900000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10365,14 +8477,6 @@ AMSInput: |
                  H      2.8733300000      2.3157700000      1.7556000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10395,14 +8499,6 @@ AMSInput: |
                  H      1.1591400000      2.1616700000      2.2313800000 
                  H      2.8826600000      2.3157700000      1.8002500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10427,14 +8523,6 @@ AMSInput: |
                  H      2.8937700000      2.3157700000      1.8534900000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10457,14 +8545,6 @@ AMSInput: |
                  H      1.2009100000      2.1616700000      2.4314500000 
                  H      2.9244200000      2.3157700000      2.0003300000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10489,14 +8569,6 @@ AMSInput: |
                  H      2.9755100000      2.3157700000      2.2450500000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10519,14 +8591,6 @@ AMSInput: |
                  H      1.3030800000      2.1616700000      2.9209000000 
                  H      3.0266000000      2.3157700000      2.4897800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10551,14 +8615,6 @@ AMSInput: |
                  H      3.0776800000      2.3157700000      2.7345000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10581,14 +8637,6 @@ AMSInput: |
                  H      1.4563400000      2.1616700000      3.6550700000 
                  H      3.1798600000      2.3157700000      3.2239500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10613,14 +8661,6 @@ AMSInput: |
                  H      3.2820300000      2.3157700000      3.7134000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10643,14 +8683,6 @@ AMSInput: |
                  H      1.7628600000      2.1616700000      5.1234200000 
                  H      3.4863800000      2.3157700000      4.6923000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10675,14 +8707,6 @@ AMSInput: |
                  H      3.9972500000      2.3157700000      7.1395400000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10705,14 +8729,6 @@ AMSInput: |
                  H      1.0665400000      2.1477800000      2.1871100000 
                  H      2.8106000000      2.3184600000      1.8408700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10737,14 +8753,6 @@ AMSInput: |
                  H      2.9434700000      2.3202400000      1.7207300000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10767,14 +8775,6 @@ AMSInput: |
                  H      1.4730700000      2.1419100000      2.3681800000 
                  H      3.0724400000      2.3196000000      1.5912300000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10799,14 +8799,6 @@ AMSInput: |
                  H      3.1876200000      2.3195000000      1.4562600000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10829,14 +8821,6 @@ AMSInput: |
                  H      2.1612800000      2.1266900000      2.4845100000 
                  H      3.3720200000      2.3233700000      1.1834800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10861,14 +8845,6 @@ AMSInput: |
                  H      3.5146100000      2.3292600000      0.9118100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10891,14 +8867,6 @@ AMSInput: |
                  H      3.0955500000      2.0861300000      2.3324400000 
                  H      3.6277000000      2.3352900000      0.6412500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10923,14 +8891,6 @@ AMSInput: |
                  H      3.7165700000      2.3419900000      0.3715200000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -10953,14 +8913,6 @@ AMSInput: |
                  H      1.6872200000      2.2963300000      2.2018700000 
                  H      2.8956300000      1.2215600000      2.9590800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -10985,14 +8937,6 @@ AMSInput: |
                  H      2.2618300000      2.1195200000      2.4373600000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11015,14 +8959,6 @@ AMSInput: |
                  H      0.6833200000      2.2938300000      1.6980900000 
                  H      2.3411500000      2.1758100000      2.3462700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11047,14 +8983,6 @@ AMSInput: |
                  H      2.4267400000      2.2201300000      2.2531400000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11077,14 +9005,6 @@ AMSInput: |
                  H      0.7521500000      2.2308500000      1.8552200000 
                  H      2.5109400000      2.2576500000      2.1559800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11109,14 +9029,6 @@ AMSInput: |
                  H      2.5967300000      2.2878000000      2.0550700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11139,14 +9051,6 @@ AMSInput: |
                  H      0.9172600000      2.1650800000      2.0748800000 
                  H      2.6929500000      2.3086400000      1.9509100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11231,14 +9135,6 @@ AMSInput: |
                  H      1.3119300000      0.8916000000      2.2349700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11260,14 +9156,6 @@ AMSInput: |
                  H      1.4119300000     -0.8916000000      2.2349700000 
                  H      1.4119300000      0.8916000000      2.2349700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11291,14 +9179,6 @@ AMSInput: |
                  H      1.5119300000      0.8916000000      2.2349700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11320,14 +9200,6 @@ AMSInput: |
                  H      1.5619300000     -0.8916000000      2.2349700000 
                  H      1.5619300000      0.8916000000      2.2349700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11351,14 +9223,6 @@ AMSInput: |
                  H      1.6619300000      0.8916000000      2.2349700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11380,14 +9244,6 @@ AMSInput: |
                  H      1.7119300000     -0.8916000000      2.2349700000 
                  H      1.7119300000      0.8916000000      2.2349700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11411,14 +9267,6 @@ AMSInput: |
                  H      9.8119300000      0.8916000000      2.2349700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11440,14 +9288,6 @@ AMSInput: |
                  H      1.8119300000     -0.8916000000      2.2349700000 
                  H      1.8119300000      0.8916000000      2.2349700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11471,14 +9311,6 @@ AMSInput: |
                  H      1.9119300000      0.8916000000      2.2349700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11500,14 +9332,6 @@ AMSInput: |
                  H      2.0619300000     -0.8916000000      2.2349700000 
                  H      2.0619300000      0.8916000000      2.2349700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11531,14 +9355,6 @@ AMSInput: |
                  H      2.3119300000      0.8916000000      2.2349700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11560,14 +9376,6 @@ AMSInput: |
                  H      2.5619300000     -0.8916000000      2.2349700000 
                  H      2.5619300000      0.8916000000      2.2349700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11591,14 +9399,6 @@ AMSInput: |
                  H      2.8119300000      0.8916000000      2.2349700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11620,14 +9420,6 @@ AMSInput: |
                  H      3.3119300000     -0.8916000000      2.2349700000 
                  H      3.3119300000      0.8916000000      2.2349700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11651,14 +9443,6 @@ AMSInput: |
                  H      3.8119300000      0.8916000000      2.2349700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11680,14 +9464,6 @@ AMSInput: |
                  H      4.8119300000     -0.8916000000      2.2349700000 
                  H      4.8119300000      0.8916000000      2.2349700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11711,14 +9487,6 @@ AMSInput: |
                  H      7.3119300000      0.8916000000      2.2349700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11740,14 +9508,6 @@ AMSInput: |
                  H      1.7014300000     -0.8916800000      2.2428900000 
                  H      1.7014100000      0.8916800000      2.2428900000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11771,14 +9531,6 @@ AMSInput: |
                  H      1.9073300000      0.8918000000      2.2499300000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11800,14 +9552,6 @@ AMSInput: |
                  H      2.1151400000     -0.8919400000      2.2384200000 
                  H      2.1151300000      0.8919400000      2.2384200000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11831,14 +9575,6 @@ AMSInput: |
                  H      2.3223000000      0.8920800000      2.2081000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11860,14 +9596,6 @@ AMSInput: |
                  H      2.5266900000     -0.8922200000      2.1592000000 
                  H      2.5267000000      0.8922200000      2.1592000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11891,14 +9619,6 @@ AMSInput: |
                  H      2.9199800000      0.8927800000      2.0078900000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11920,14 +9640,6 @@ AMSInput: |
                  H      3.2814400000     -0.8934900000      1.7913400000 
                  H      3.2814400000      0.8934900000      1.7913400000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -11951,14 +9663,6 @@ AMSInput: |
                  H      3.5989600000      0.8944800000      1.5182800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -11980,14 +9684,6 @@ AMSInput: |
                  H      3.8564800000     -0.8957300000      1.1997300000 
                  H      3.8564800000      0.8957000000      1.1997800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12011,14 +9707,6 @@ AMSInput: |
                  H      4.0165400000      0.8967200000      0.8539100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12040,14 +9728,6 @@ AMSInput: |
                  H      0.3502200000      0.9101500000     -1.9017500000 
                  H      0.3502200000     -0.9101500000     -1.9017500000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12071,14 +9751,6 @@ AMSInput: |
                  H      0.5720300000      0.9058600000      1.9462100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12100,14 +9772,6 @@ AMSInput: |
                  H      0.8219700000     -0.8970300000      2.0303200000 
                  H      0.8219900000      0.8970400000      2.0303300000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12131,14 +9795,6 @@ AMSInput: |
                  H      0.9682700000      0.8941500000      2.0813300000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12160,14 +9816,6 @@ AMSInput: |
                  H      1.1310000000     -0.8924600000      2.1332300000 
                  H      1.1310500000      0.8924900000      2.1332400000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12191,14 +9839,6 @@ AMSInput: |
                  H      1.3097600000      0.8919900000      2.1808000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12220,14 +9860,6 @@ AMSInput: |
                  H      1.5011100000     -0.8916700000      2.2190500000 
                  H      1.5008000000      0.8914900000      2.2190800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12561,14 +10193,6 @@ AMSInput: |
                  H     -0.2318900000      0.0000000000     -1.3151300000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12584,14 +10208,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H     -0.3456300000      0.0000000000     -1.2899100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12609,14 +10225,6 @@ AMSInput: |
                  H     -0.4567400000      0.0000000000     -1.2548800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12632,14 +10240,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H     -0.5643700000      0.0000000000     -1.2103000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12657,14 +10257,6 @@ AMSInput: |
                  H     -0.6677100000      0.0000000000     -1.1565100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12680,14 +10272,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H     -0.7659600000      0.0000000000     -1.0939100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12705,14 +10289,6 @@ AMSInput: |
                  H     -0.8583900000      0.0000000000     -1.0229900000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12728,14 +10304,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H     -1.0229900000      0.0000000000     -0.8583900000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12753,14 +10321,6 @@ AMSInput: |
                  H     -1.1565100000      0.0000000000     -0.6677100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12776,14 +10336,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H      0.9442800000      0.0000000000     -0.9442800000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12801,14 +10353,6 @@ AMSInput: |
                  H      0.8583900000      0.0000000000     -1.0229900000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12824,14 +10368,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H      0.7659600000      0.0000000000     -1.0939100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12849,14 +10385,6 @@ AMSInput: |
                  H      0.6677100000      0.0000000000     -1.1565100000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12872,14 +10400,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H      0.5643700000      0.0000000000     -1.2103000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12897,14 +10417,6 @@ AMSInput: |
                  H      0.4567400000      0.0000000000     -1.2548800000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12920,14 +10432,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H      0.3456300000      0.0000000000     -1.2899100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12945,14 +10449,6 @@ AMSInput: |
                  H      0.2318900000      0.0000000000     -1.3151300000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -12968,14 +10464,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H      0.1163900000      0.0000000000     -1.3303400000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -12993,14 +10481,6 @@ AMSInput: |
                  H      0.0000000000      0.0000000000     -1.3354200000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13016,14 +10496,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H     -0.1163900000      0.0000000000     -1.3303400000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13041,14 +10513,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13064,14 +10528,6 @@ AMSInput: |
                  H      1.0000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13089,14 +10545,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13112,14 +10560,6 @@ AMSInput: |
                  H      1.1000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13137,14 +10577,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13160,14 +10592,6 @@ AMSInput: |
                  H      1.2000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13185,14 +10609,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13208,14 +10624,6 @@ AMSInput: |
                  H      1.3000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13233,14 +10641,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13256,14 +10656,6 @@ AMSInput: |
                  H      1.4000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13281,14 +10673,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13304,14 +10688,6 @@ AMSInput: |
                  H      1.5000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13329,14 +10705,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13352,14 +10720,6 @@ AMSInput: |
                  H      1.7000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13377,14 +10737,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13400,14 +10752,6 @@ AMSInput: |
                  H      1.9000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13425,14 +10769,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13448,14 +10784,6 @@ AMSInput: |
                  H      2.0000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13473,14 +10801,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13496,14 +10816,6 @@ AMSInput: |
                  H      3.0000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13521,14 +10833,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13544,14 +10848,6 @@ AMSInput: |
                  H      5.0000000000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13569,14 +10865,6 @@ AMSInput: |
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13592,14 +10880,6 @@ AMSInput: |
                  H      1.3354200000      0.0000000000      0.0000000000 
                  H     -0.0520600000      0.0000000000     -1.3344000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13643,14 +10923,6 @@ AMSInput: |
                  H      2.2505900000      0.0000000000     -1.3277300000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13667,14 +10939,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.2505900000      1.3075600000      0.2305600000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13693,14 +10957,6 @@ AMSInput: |
                  H      2.2505900000      1.1498500000      0.6638700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13717,14 +10973,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.2505900000      0.8534500000      1.0171000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13743,14 +10991,6 @@ AMSInput: |
                  H      2.2505900000      0.4541100000      1.2476600000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13767,14 +11007,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.2505900000      0.0000000000      1.3277300000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13793,14 +11025,6 @@ AMSInput: |
                  H      2.2505900000      0.4541100000     -1.2476600000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13817,14 +11041,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.2505900000     -0.4541100000      1.2476600000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13843,14 +11059,6 @@ AMSInput: |
                  H      2.2505900000     -0.8534500000      1.0171000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13867,14 +11075,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.2505900000     -1.1498500000      0.6638700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13893,14 +11093,6 @@ AMSInput: |
                  H      2.2505900000      0.8534500000     -1.0171000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13917,14 +11109,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.2505900000      1.1498500000     -0.6638700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13943,14 +11127,6 @@ AMSInput: |
                  H      2.2505900000      1.3075600000     -0.2305600000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -13967,14 +11143,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.2505900000      1.3277300000      0.0000000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -13993,14 +11161,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14017,14 +11177,6 @@ AMSInput: |
                  H     -0.1491200000      0.0000000000     -1.0898500000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14043,14 +11195,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14067,14 +11211,6 @@ AMSInput: |
                  H     -0.1762300000      0.0000000000     -1.2880000000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14093,14 +11229,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14117,14 +11245,6 @@ AMSInput: |
                  H     -0.2033400000      0.0000000000     -1.4861500000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14143,14 +11263,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14167,14 +11279,6 @@ AMSInput: |
                  H     -0.2304500000      0.0000000000     -1.6843100000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14193,14 +11297,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14217,14 +11313,6 @@ AMSInput: |
                  H     -0.2711200000      0.0000000000     -1.9815400000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14243,14 +11331,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14267,14 +11347,6 @@ AMSInput: |
                  H     -0.6778000000      0.0000000000     -4.9538500000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14293,14 +11365,6 @@ AMSInput: |
                  H      1.8791500000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14317,14 +11381,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      1.9291500000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14343,14 +11399,6 @@ AMSInput: |
                  H      1.9791500000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14367,14 +11415,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.0291500000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14393,14 +11433,6 @@ AMSInput: |
                  H     10.1791500000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14417,14 +11449,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.1791500000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14443,14 +11467,6 @@ AMSInput: |
                  H      2.2501500000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14467,14 +11483,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.2791500000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14493,14 +11501,6 @@ AMSInput: |
                  H      2.4291500000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14517,14 +11517,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      2.6791500000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14543,14 +11535,6 @@ AMSInput: |
                  H      2.9291500000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14567,14 +11551,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      3.1791500000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14593,14 +11569,6 @@ AMSInput: |
                  H      3.6791500000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14617,14 +11585,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      4.1791500000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14643,14 +11603,6 @@ AMSInput: |
                  H      5.1791500000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14667,14 +11619,6 @@ AMSInput: |
                  H     -0.1814400000      0.0000000000     -1.3260900000 
                  H      7.6791500000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14693,14 +11637,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14717,14 +11653,6 @@ AMSInput: |
                  H     -0.3464200000      0.0000000000     -1.2928400000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14743,14 +11671,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14767,14 +11687,6 @@ AMSInput: |
                  H     -0.5656500000      0.0000000000     -1.2130500000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14793,14 +11705,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14817,14 +11721,6 @@ AMSInput: |
                  H     -0.8603400000      0.0000000000     -1.0253100000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14843,14 +11739,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14867,14 +11755,6 @@ AMSInput: |
                  H      0.3464200000      0.0000000000     -1.2928400000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14893,14 +11773,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14917,14 +11789,6 @@ AMSInput: |
                  H      0.1166500000      0.0000000000     -1.3333600000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -14943,14 +11807,6 @@ AMSInput: |
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -14967,14 +11823,6 @@ AMSInput: |
                  H     -0.1166500000      0.0000000000     -1.3333600000 
                  H      2.2505900000      1.3272000000      0.0375700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15056,14 +11904,6 @@ AMSInput: |
                  H      1.5963700000      1.1916300000      2.0288000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15083,14 +11923,6 @@ AMSInput: |
                  H      1.9832400000     -0.9140900000     -0.4470300000 
                  H      1.6963700000      1.1916300000      2.0288000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15112,14 +11944,6 @@ AMSInput: |
                  H      1.7963700000      1.1916300000      2.0288000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15139,14 +11963,6 @@ AMSInput: |
                  H      2.1332400000     -0.9140900000     -0.4470300000 
                  H      1.8463700000      1.1916300000      2.0288000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15168,14 +11984,6 @@ AMSInput: |
                  H      1.9463700000      1.1916300000      2.0288000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15195,14 +12003,6 @@ AMSInput: |
                  H     10.3832400000     -0.9140900000     -0.4470300000 
                  H     10.0963700000      1.1916300000      2.0288000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15224,14 +12024,6 @@ AMSInput: |
                  H      2.0963700000      1.1916300000      2.0288000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15251,14 +12043,6 @@ AMSInput: |
                  H      2.4832400000     -0.9140900000     -0.4470300000 
                  H      2.1963700000      1.1916300000      2.0288000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15280,14 +12064,6 @@ AMSInput: |
                  H      2.3463700000      1.1916300000      2.0288000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15307,14 +12083,6 @@ AMSInput: |
                  H      2.8832400000     -0.9140900000     -0.4470300000 
                  H      2.5963700000      1.1916300000      2.0288000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15336,14 +12104,6 @@ AMSInput: |
                  H      2.8463700000      1.1916300000      2.0288000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15363,14 +12123,6 @@ AMSInput: |
                  H      3.3832400000     -0.9140900000     -0.4470300000 
                  H      3.0963700000      1.1916300000      2.0288000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15392,14 +12144,6 @@ AMSInput: |
                  H      3.5963700000      1.1916300000      2.0288000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15419,14 +12163,6 @@ AMSInput: |
                  H      4.3832400000     -0.9140900000     -0.4470300000 
                  H      4.0963700000      1.1916300000      2.0288000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15448,14 +12184,6 @@ AMSInput: |
                  H      5.0963700000      1.1916300000      2.0288000000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15475,14 +12203,6 @@ AMSInput: |
                  H      7.8832400000     -0.9140900000     -0.4470300000 
                  H      7.5963700000      1.1916300000      2.0288000000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15504,14 +12224,6 @@ AMSInput: |
                  H      1.5467100000      1.1790600000      2.0183900000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15531,14 +12243,6 @@ AMSInput: |
                  H      2.2174300000     -0.9184400000     -0.4230900000 
                  H      1.7248900000      1.1809900000      2.0325400000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15560,14 +12264,6 @@ AMSInput: |
                  H      2.1278300000      1.2027700000      2.0067200000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15587,14 +12283,6 @@ AMSInput: |
                  H      2.1715300000     -0.9049300000     -0.4952100000 
                  H      2.3169500000      1.2059300000      1.9750300000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15616,14 +12304,6 @@ AMSInput: |
                  H      2.5704800000      1.2526200000      1.8633400000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15643,14 +12323,6 @@ AMSInput: |
                  H      2.0486600000     -0.9316900000     -0.5142400000 
                  H      2.7494300000      1.2577900000      1.7855700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15672,14 +12344,6 @@ AMSInput: |
                  H      3.0316700000      1.2115800000      1.7033400000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15699,14 +12363,6 @@ AMSInput: |
                  H      1.9723900000     -0.9299800000     -0.5575700000 
                  H      3.3510300000      1.2477600000      1.3955700000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15728,14 +12384,6 @@ AMSInput: |
                  H      3.6013600000      1.2263000000      1.1677400000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15755,14 +12403,6 @@ AMSInput: |
                  H      2.3961500000     -0.9435600000     -0.2787400000 
                  H      2.3774300000      0.4787400000      2.4952200000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -15784,14 +12424,6 @@ AMSInput: |
                  H      2.0077000000      1.2350400000      2.1174600000 
      End
    End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
-   End
    properties
      gradients
    End
@@ -15811,14 +12443,6 @@ AMSInput: |
                  H      2.2706500000     -0.9333200000     -0.3398300000 
                  H      1.3599100000      1.2444300000      1.9633400000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients
@@ -16107,14 +12731,6 @@ AMSInput: |
                  H     50.0689000000     47.8923800000     48.0049600000 
                  H     49.3769400000     52.1193800000     48.2085100000 
      End
-   End
-   geometryoptimization
-     convergence
-       gradients 0.1
-       step 1e-06
-     End
-     maxiterations 3000
-     pretendconverged
    End
    properties
      gradients

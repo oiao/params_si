@@ -1,4 +1,4 @@
 .ipynb_checkpoints
-MuellerHartke/SI
-MuellerHartke/input_params
-MuellerHartke/opt*
+optimization/SI
+optimization/opt*
+.trash
