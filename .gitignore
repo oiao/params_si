@@ -1,4 +1,4 @@
 .ipynb_checkpoints
 .ignore
-optimization/SI
-optimization/opt*
+**/opt*/
+MH
