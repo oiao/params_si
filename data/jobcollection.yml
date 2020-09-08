@@ -1,5 +1,5 @@
 ---
-ID: 'SS85-001'
+ID: SS85-001
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -36,7 +36,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-002'
+ID: SS85-002
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -73,7 +73,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-003'
+ID: SS85-003
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -110,7 +110,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-004'
+ID: SS85-004
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -147,7 +147,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-005'
+ID: SS85-005
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -184,7 +184,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-006'
+ID: SS85-006
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -221,7 +221,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-007'
+ID: SS85-007
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -258,7 +258,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-008'
+ID: SS85-008
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -295,7 +295,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-009'
+ID: SS85-009
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -332,7 +332,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-010'
+ID: SS85-010
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -369,7 +369,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-011'
+ID: SS85-011
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -406,7 +406,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-012'
+ID: SS85-012
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -443,7 +443,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-013'
+ID: SS85-013
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -480,7 +480,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-014'
+ID: SS85-014
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -517,7 +517,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-015'
+ID: SS85-015
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -554,7 +554,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-016'
+ID: SS85-016
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -591,7 +591,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-017'
+ID: SS85-017
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -628,7 +628,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-018'
+ID: SS85-018
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -665,7 +665,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-019'
+ID: SS85-019
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -702,7 +702,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-020'
+ID: SS85-020
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -739,7 +739,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-021'
+ID: SS85-021
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -776,7 +776,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-022'
+ID: SS85-022
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -813,7 +813,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-023'
+ID: SS85-023
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -850,7 +850,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-024'
+ID: SS85-024
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -887,7 +887,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-025'
+ID: SS85-025
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -924,7 +924,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-026'
+ID: SS85-026
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -961,7 +961,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-027'
+ID: SS85-027
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -998,7 +998,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-028'
+ID: SS85-028
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1035,7 +1035,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-029'
+ID: SS85-029
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1072,7 +1072,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-030'
+ID: SS85-030
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1109,7 +1109,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-031'
+ID: SS85-031
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1146,7 +1146,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-032'
+ID: SS85-032
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1183,7 +1183,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-033'
+ID: SS85-033
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1220,7 +1220,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-034'
+ID: SS85-034
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1257,7 +1257,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-035'
+ID: SS85-035
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1294,7 +1294,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-036'
+ID: SS85-036
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1331,7 +1331,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-037'
+ID: SS85-037
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1368,7 +1368,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-038'
+ID: SS85-038
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1405,7 +1405,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-039'
+ID: SS85-039
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1442,7 +1442,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-040'
+ID: SS85-040
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1479,7 +1479,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-041'
+ID: SS85-041
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1516,7 +1516,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-042'
+ID: SS85-042
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1553,7 +1553,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-043'
+ID: SS85-043
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1590,7 +1590,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-044'
+ID: SS85-044
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1627,7 +1627,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-045'
+ID: SS85-045
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1664,7 +1664,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-046'
+ID: SS85-046
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1701,7 +1701,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-047'
+ID: SS85-047
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1738,7 +1738,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-048'
+ID: SS85-048
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1775,7 +1775,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-049'
+ID: SS85-049
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1812,7 +1812,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-050'
+ID: SS85-050
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1849,7 +1849,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-051'
+ID: SS85-051
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1886,7 +1886,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-052'
+ID: SS85-052
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1923,7 +1923,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-053'
+ID: SS85-053
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1960,7 +1960,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-054'
+ID: SS85-054
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -1997,7 +1997,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-055'
+ID: SS85-055
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2034,7 +2034,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-056'
+ID: SS85-056
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2071,7 +2071,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-057'
+ID: SS85-057
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2108,7 +2108,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-058'
+ID: SS85-058
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2145,7 +2145,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-059'
+ID: SS85-059
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2182,7 +2182,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-060'
+ID: SS85-060
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2219,7 +2219,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-061'
+ID: SS85-061
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2256,7 +2256,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-062'
+ID: SS85-062
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2293,7 +2293,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-063'
+ID: SS85-063
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2330,7 +2330,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-064'
+ID: SS85-064
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2367,7 +2367,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-065'
+ID: SS85-065
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2404,7 +2404,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-066'
+ID: SS85-066
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2441,7 +2441,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-067'
+ID: SS85-067
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2478,7 +2478,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-068'
+ID: SS85-068
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2515,7 +2515,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-069'
+ID: SS85-069
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2552,7 +2552,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-070'
+ID: SS85-070
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2589,7 +2589,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-071'
+ID: SS85-071
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2626,7 +2626,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-072'
+ID: SS85-072
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2663,7 +2663,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-073'
+ID: SS85-073
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2700,7 +2700,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-074'
+ID: SS85-074
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2737,7 +2737,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-075'
+ID: SS85-075
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2774,7 +2774,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-076'
+ID: SS85-076
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2811,7 +2811,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-077'
+ID: SS85-077
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2848,7 +2848,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-078'
+ID: SS85-078
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2885,7 +2885,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-079'
+ID: SS85-079
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2922,7 +2922,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-080'
+ID: SS85-080
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2959,7 +2959,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-081'
+ID: SS85-081
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -2996,7 +2996,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-082'
+ID: SS85-082
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3033,7 +3033,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-083'
+ID: SS85-083
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3070,7 +3070,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-084'
+ID: SS85-084
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3107,7 +3107,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-085'
+ID: SS85-085
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3144,7 +3144,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-086'
+ID: SS85-086
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3181,7 +3181,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-087'
+ID: SS85-087
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3218,7 +3218,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-088'
+ID: SS85-088
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3255,7 +3255,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-089'
+ID: SS85-089
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3292,7 +3292,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-090'
+ID: SS85-090
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3329,7 +3329,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-091'
+ID: SS85-091
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3366,7 +3366,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-092'
+ID: SS85-092
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3403,7 +3403,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-093'
+ID: SS85-093
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3440,7 +3440,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-094'
+ID: SS85-094
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3477,7 +3477,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-095'
+ID: SS85-095
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3514,7 +3514,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-096'
+ID: SS85-096
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3551,7 +3551,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-097'
+ID: SS85-097
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3588,7 +3588,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-098'
+ID: SS85-098
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3625,7 +3625,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-099'
+ID: SS85-099
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3662,7 +3662,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SS85-100'
+ID: SS85-100
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3699,7 +3699,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-001'
+ID: SSOP-001
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3736,7 +3736,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-002'
+ID: SSOP-002
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3773,7 +3773,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-003'
+ID: SSOP-003
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3810,7 +3810,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-004'
+ID: SSOP-004
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3847,7 +3847,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-005'
+ID: SSOP-005
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3884,7 +3884,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-006'
+ID: SSOP-006
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3921,7 +3921,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-007'
+ID: SSOP-007
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3958,7 +3958,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-008'
+ID: SSOP-008
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -3995,7 +3995,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-009'
+ID: SSOP-009
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4032,7 +4032,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-010'
+ID: SSOP-010
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4069,7 +4069,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-011'
+ID: SSOP-011
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4106,7 +4106,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-012'
+ID: SSOP-012
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4143,7 +4143,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-013'
+ID: SSOP-013
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4180,7 +4180,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-014'
+ID: SSOP-014
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4217,7 +4217,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-015'
+ID: SSOP-015
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4254,7 +4254,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-016'
+ID: SSOP-016
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4291,7 +4291,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-017'
+ID: SSOP-017
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4328,7 +4328,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-018'
+ID: SSOP-018
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4365,7 +4365,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-019'
+ID: SSOP-019
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4402,7 +4402,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-020'
+ID: SSOP-020
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4439,7 +4439,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-021'
+ID: SSOP-021
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4476,7 +4476,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-022'
+ID: SSOP-022
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4513,7 +4513,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-023'
+ID: SSOP-023
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4550,7 +4550,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-024'
+ID: SSOP-024
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4587,7 +4587,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-025'
+ID: SSOP-025
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4624,7 +4624,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-026'
+ID: SSOP-026
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4661,7 +4661,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-027'
+ID: SSOP-027
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4698,7 +4698,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-028'
+ID: SSOP-028
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4735,7 +4735,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-029'
+ID: SSOP-029
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4772,7 +4772,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-030'
+ID: SSOP-030
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4809,7 +4809,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-031'
+ID: SSOP-031
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4846,7 +4846,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-032'
+ID: SSOP-032
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4883,7 +4883,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-033'
+ID: SSOP-033
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4920,7 +4920,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-034'
+ID: SSOP-034
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4957,7 +4957,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-035'
+ID: SSOP-035
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -4994,7 +4994,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-036'
+ID: SSOP-036
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5031,7 +5031,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-037'
+ID: SSOP-037
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5068,7 +5068,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-038'
+ID: SSOP-038
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5105,7 +5105,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-039'
+ID: SSOP-039
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5142,7 +5142,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-040'
+ID: SSOP-040
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5179,7 +5179,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-041'
+ID: SSOP-041
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5216,7 +5216,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-042'
+ID: SSOP-042
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5253,7 +5253,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-043'
+ID: SSOP-043
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5290,7 +5290,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-044'
+ID: SSOP-044
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5327,7 +5327,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-045'
+ID: SSOP-045
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5364,7 +5364,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-046'
+ID: SSOP-046
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5401,7 +5401,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-047'
+ID: SSOP-047
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5438,7 +5438,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-048'
+ID: SSOP-048
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5475,7 +5475,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-049'
+ID: SSOP-049
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5512,7 +5512,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-050'
+ID: SSOP-050
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5549,7 +5549,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-051'
+ID: SSOP-051
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5586,7 +5586,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-052'
+ID: SSOP-052
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5623,7 +5623,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-053'
+ID: SSOP-053
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5660,7 +5660,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-054'
+ID: SSOP-054
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5697,7 +5697,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-055'
+ID: SSOP-055
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5734,7 +5734,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-056'
+ID: SSOP-056
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5771,7 +5771,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-057'
+ID: SSOP-057
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5808,7 +5808,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-058'
+ID: SSOP-058
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5845,7 +5845,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-059'
+ID: SSOP-059
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5882,7 +5882,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-060'
+ID: SSOP-060
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5919,7 +5919,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-061'
+ID: SSOP-061
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5956,7 +5956,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-062'
+ID: SSOP-062
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -5993,7 +5993,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-063'
+ID: SSOP-063
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6030,7 +6030,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-064'
+ID: SSOP-064
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6067,7 +6067,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-065'
+ID: SSOP-065
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6104,7 +6104,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-066'
+ID: SSOP-066
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6141,7 +6141,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-067'
+ID: SSOP-067
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6178,7 +6178,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-068'
+ID: SSOP-068
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6215,7 +6215,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-069'
+ID: SSOP-069
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6252,7 +6252,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-070'
+ID: SSOP-070
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6289,7 +6289,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-071'
+ID: SSOP-071
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6326,7 +6326,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-072'
+ID: SSOP-072
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6363,7 +6363,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-073'
+ID: SSOP-073
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6400,7 +6400,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-074'
+ID: SSOP-074
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6437,7 +6437,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-075'
+ID: SSOP-075
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6474,7 +6474,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-076'
+ID: SSOP-076
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6511,7 +6511,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-077'
+ID: SSOP-077
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6548,7 +6548,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-078'
+ID: SSOP-078
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6585,7 +6585,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-079'
+ID: SSOP-079
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6622,7 +6622,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-080'
+ID: SSOP-080
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6659,7 +6659,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-081'
+ID: SSOP-081
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6696,7 +6696,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-082'
+ID: SSOP-082
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6733,7 +6733,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-083'
+ID: SSOP-083
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6770,7 +6770,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-084'
+ID: SSOP-084
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6807,7 +6807,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-085'
+ID: SSOP-085
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6844,7 +6844,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-086'
+ID: SSOP-086
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6881,7 +6881,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-087'
+ID: SSOP-087
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6918,7 +6918,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-088'
+ID: SSOP-088
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6955,7 +6955,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-089'
+ID: SSOP-089
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -6992,7 +6992,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-090'
+ID: SSOP-090
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7029,7 +7029,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-091'
+ID: SSOP-091
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7066,7 +7066,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-092'
+ID: SSOP-092
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7103,7 +7103,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-093'
+ID: SSOP-093
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7140,7 +7140,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-094'
+ID: SSOP-094
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7177,7 +7177,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-095'
+ID: SSOP-095
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7214,7 +7214,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-096'
+ID: SSOP-096
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7251,7 +7251,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-097'
+ID: SSOP-097
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7288,7 +7288,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-098'
+ID: SSOP-098
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7325,7 +7325,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-099'
+ID: SSOP-099
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7362,7 +7362,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'SSOP-100'
+ID: SSOP-100
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7399,12 +7399,12 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'bnz'
+ID: bnz
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -7432,12 +7432,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'cht'
+ID: cht
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -7470,12 +7470,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'cpet'
+ID: cpet
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -7503,12 +7503,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'cpt'
+ID: cpt
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -7538,12 +7538,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'cptl'
+ID: cptl
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -7571,12 +7571,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dht'
+ID: dht
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -7601,12 +7601,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds'
+ID: dmds
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -7632,7 +7632,7 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS1.5'
+ID: dmds-CS1.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7655,7 +7655,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS1.6'
+ID: dmds-CS1.6
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7678,7 +7678,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS1.7'
+ID: dmds-CS1.7
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7701,7 +7701,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS1.9'
+ID: dmds-CS1.9
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7724,7 +7724,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS10'
+ID: dmds-CS10
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7747,7 +7747,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS2'
+ID: dmds-CS2
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7770,7 +7770,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS2.1'
+ID: dmds-CS2.1
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7793,7 +7793,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS2.25'
+ID: dmds-CS2.25
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7816,7 +7816,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS2.5'
+ID: dmds-CS2.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7839,7 +7839,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS2.75'
+ID: dmds-CS2.75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7862,7 +7862,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS3'
+ID: dmds-CS3
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7885,7 +7885,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS3.5'
+ID: dmds-CS3.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7908,7 +7908,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS4'
+ID: dmds-CS4
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7931,7 +7931,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS5'
+ID: dmds-CS5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7954,7 +7954,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CS7.5'
+ID: dmds-CS7.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -7977,7 +7977,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr0'
+ID: dmds-CSSCr0
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8000,7 +8000,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr10'
+ID: dmds-CSSCr10
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8023,7 +8023,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr100'
+ID: dmds-CSSCr100
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8046,7 +8046,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr135'
+ID: dmds-CSSCr135
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8069,7 +8069,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr170'
+ID: dmds-CSSCr170
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8092,7 +8092,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr180'
+ID: dmds-CSSCr180
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8115,7 +8115,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr190'
+ID: dmds-CSSCr190
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8138,7 +8138,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr225'
+ID: dmds-CSSCr225
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8161,7 +8161,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr260'
+ID: dmds-CSSCr260
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8184,7 +8184,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr270'
+ID: dmds-CSSCr270
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8207,7 +8207,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr280'
+ID: dmds-CSSCr280
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8230,7 +8230,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr315'
+ID: dmds-CSSCr315
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8253,7 +8253,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr350'
+ID: dmds-CSSCr350
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8276,7 +8276,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr360'
+ID: dmds-CSSCr360
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8299,7 +8299,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr45'
+ID: dmds-CSSCr45
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8322,7 +8322,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr80'
+ID: dmds-CSSCr80
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8345,7 +8345,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-CSSCr90'
+ID: dmds-CSSCr90
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8368,7 +8368,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS1.7'
+ID: dmds-SS1.7
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8391,7 +8391,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS1.8'
+ID: dmds-SS1.8
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8414,7 +8414,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS1.9'
+ID: dmds-SS1.9
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8437,7 +8437,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS10'
+ID: dmds-SS10
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8460,7 +8460,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS2'
+ID: dmds-SS2
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8483,7 +8483,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS2.042'
+ID: dmds-SS2.042
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8506,7 +8506,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS2.1'
+ID: dmds-SS2.1
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8529,7 +8529,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS2.25'
+ID: dmds-SS2.25
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8552,7 +8552,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS2.5'
+ID: dmds-SS2.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8575,7 +8575,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS2.75'
+ID: dmds-SS2.75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8598,7 +8598,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS3'
+ID: dmds-SS3
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8621,7 +8621,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS3.5'
+ID: dmds-SS3.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8644,7 +8644,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS4'
+ID: dmds-SS4
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8667,7 +8667,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS5'
+ID: dmds-SS5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8690,7 +8690,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SS7.5'
+ID: dmds-SS7.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8713,7 +8713,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr100'
+ID: dmds-SSCr100
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8736,7 +8736,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr105'
+ID: dmds-SSCr105
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8759,7 +8759,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr110'
+ID: dmds-SSCr110
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8782,7 +8782,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr115'
+ID: dmds-SSCr115
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8805,7 +8805,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr125'
+ID: dmds-SSCr125
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8828,7 +8828,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr135'
+ID: dmds-SSCr135
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8851,7 +8851,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr145'
+ID: dmds-SSCr145
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8874,7 +8874,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr155'
+ID: dmds-SSCr155
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8897,7 +8897,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr65'
+ID: dmds-SSCr65
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8920,7 +8920,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr70'
+ID: dmds-SSCr70
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8943,7 +8943,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr75'
+ID: dmds-SSCr75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8966,7 +8966,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr80'
+ID: dmds-SSCr80
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -8989,7 +8989,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr85'
+ID: dmds-SSCr85
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9012,7 +9012,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr90'
+ID: dmds-SSCr90
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9035,7 +9035,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmds-SSCr95'
+ID: dmds-SSCr95
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9058,12 +9058,12 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmt'
+ID: dmt
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -9089,12 +9089,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte'
+ID: dmte
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -9119,7 +9119,7 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS1.5'
+ID: dmte-CS1.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9141,7 +9141,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS1.6'
+ID: dmte-CS1.6
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9163,7 +9163,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS1.7'
+ID: dmte-CS1.7
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9185,7 +9185,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS1.75'
+ID: dmte-CS1.75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9207,7 +9207,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS1.85'
+ID: dmte-CS1.85
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9229,7 +9229,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS1.9'
+ID: dmte-CS1.9
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9251,7 +9251,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS10'
+ID: dmte-CS10
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9273,7 +9273,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS2'
+ID: dmte-CS2
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9295,7 +9295,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS2.1'
+ID: dmte-CS2.1
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9317,7 +9317,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS2.25'
+ID: dmte-CS2.25
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9339,7 +9339,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS2.5'
+ID: dmte-CS2.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9361,7 +9361,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS2.75'
+ID: dmte-CS2.75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9383,7 +9383,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS3'
+ID: dmte-CS3
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9405,7 +9405,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS3.5'
+ID: dmte-CS3.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9427,7 +9427,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS4'
+ID: dmte-CS4
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9449,7 +9449,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS5'
+ID: dmte-CS5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9471,7 +9471,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CS7.5'
+ID: dmte-CS7.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9493,7 +9493,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC100'
+ID: dmte-CSC100
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9515,7 +9515,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC105'
+ID: dmte-CSC105
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9537,7 +9537,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC110'
+ID: dmte-CSC110
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9559,7 +9559,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC115'
+ID: dmte-CSC115
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9581,7 +9581,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC120'
+ID: dmte-CSC120
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9603,7 +9603,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC130'
+ID: dmte-CSC130
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9625,7 +9625,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC140'
+ID: dmte-CSC140
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9647,7 +9647,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC150'
+ID: dmte-CSC150
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9669,7 +9669,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC160'
+ID: dmte-CSC160
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9691,7 +9691,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC170'
+ID: dmte-CSC170
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9713,7 +9713,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC55'
+ID: dmte-CSC55
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9735,7 +9735,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC65'
+ID: dmte-CSC65
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9757,7 +9757,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC75'
+ID: dmte-CSC75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9779,7 +9779,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC80'
+ID: dmte-CSC80
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9801,7 +9801,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC85'
+ID: dmte-CSC85
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9823,7 +9823,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC90'
+ID: dmte-CSC90
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9845,7 +9845,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmte-CSC95'
+ID: dmte-CSC95
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -9867,12 +9867,12 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dmteBase'
+ID: dmteBase
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -9897,12 +9897,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dpds'
+ID: dpds
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -9942,12 +9942,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dpods'
+ID: dpods
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -9989,12 +9989,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'dpt'
+ID: dpt
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -10034,12 +10034,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'edt'
+ID: edt
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -10065,12 +10065,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'epe'
+ID: epe
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -10105,12 +10105,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'ett'
+ID: ett
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -10135,12 +10135,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'h2s'
+ID: h2s
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -10159,12 +10159,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'h2sGeo'
+ID: h2sGeo
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -10183,7 +10183,7 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH100'
+ID: hsh-HSH100
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10199,7 +10199,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH105'
+ID: hsh-HSH105
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10215,7 +10215,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH110'
+ID: hsh-HSH110
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10231,7 +10231,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH115'
+ID: hsh-HSH115
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10247,7 +10247,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH120'
+ID: hsh-HSH120
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10263,7 +10263,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH125'
+ID: hsh-HSH125
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10279,7 +10279,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH130'
+ID: hsh-HSH130
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10295,7 +10295,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH140'
+ID: hsh-HSH140
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10311,7 +10311,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH150'
+ID: hsh-HSH150
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10327,7 +10327,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH45'
+ID: hsh-HSH45
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10343,7 +10343,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH50'
+ID: hsh-HSH50
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10359,7 +10359,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH55'
+ID: hsh-HSH55
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10375,7 +10375,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH60'
+ID: hsh-HSH60
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10391,7 +10391,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH65'
+ID: hsh-HSH65
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10407,7 +10407,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH70'
+ID: hsh-HSH70
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10423,7 +10423,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH75'
+ID: hsh-HSH75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10439,7 +10439,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH80'
+ID: hsh-HSH80
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10455,7 +10455,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH85'
+ID: hsh-HSH85
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10471,7 +10471,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH90'
+ID: hsh-HSH90
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10487,7 +10487,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-HSH95'
+ID: hsh-HSH95
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10503,7 +10503,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH0.95'
+ID: hsh-SH0.95
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10519,7 +10519,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1'
+ID: hsh-SH1
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10535,7 +10535,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.05'
+ID: hsh-SH1.05
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10551,7 +10551,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.1'
+ID: hsh-SH1.1
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10567,7 +10567,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.15'
+ID: hsh-SH1.15
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10583,7 +10583,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.2'
+ID: hsh-SH1.2
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10599,7 +10599,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.25'
+ID: hsh-SH1.25
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10615,7 +10615,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.3'
+ID: hsh-SH1.3
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10631,7 +10631,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.35'
+ID: hsh-SH1.35
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10647,7 +10647,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.4'
+ID: hsh-SH1.4
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10663,7 +10663,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.45'
+ID: hsh-SH1.45
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10679,7 +10679,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.5'
+ID: hsh-SH1.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10695,7 +10695,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.6'
+ID: hsh-SH1.6
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10711,7 +10711,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.7'
+ID: hsh-SH1.7
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10727,7 +10727,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.8'
+ID: hsh-SH1.8
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10743,7 +10743,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH1.9'
+ID: hsh-SH1.9
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10759,7 +10759,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH10'
+ID: hsh-SH10
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10775,7 +10775,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH2'
+ID: hsh-SH2
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10791,7 +10791,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH2.5'
+ID: hsh-SH2.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10807,7 +10807,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH3'
+ID: hsh-SH3
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10823,7 +10823,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH4'
+ID: hsh-SH4
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10839,7 +10839,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH5'
+ID: hsh-SH5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10855,7 +10855,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsh-SH7.5'
+ID: hsh-SH7.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10871,7 +10871,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hshBase'
+ID: hshBase
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10887,12 +10887,12 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh'
+ID: hssh
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -10912,7 +10912,7 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH0'
+ID: hssh-HSSH0
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10929,7 +10929,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH100'
+ID: hssh-HSSH100
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10946,7 +10946,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH120'
+ID: hssh-HSSH120
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10963,7 +10963,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH140'
+ID: hssh-HSSH140
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10980,7 +10980,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH160'
+ID: hssh-HSSH160
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -10997,7 +10997,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH180'
+ID: hssh-HSSH180
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11014,7 +11014,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH20'
+ID: hssh-HSSH20
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11031,7 +11031,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH200'
+ID: hssh-HSSH200
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11048,7 +11048,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH220'
+ID: hssh-HSSH220
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11065,7 +11065,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH240'
+ID: hssh-HSSH240
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11082,7 +11082,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH40'
+ID: hssh-HSSH40
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11099,7 +11099,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH60'
+ID: hssh-HSSH60
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11116,7 +11116,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH80'
+ID: hssh-HSSH80
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11133,7 +11133,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-HSSH90'
+ID: hssh-HSSH90
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11150,7 +11150,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH1'
+ID: hssh-SH1
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11167,7 +11167,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH1.1'
+ID: hssh-SH1.1
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11184,7 +11184,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH1.2'
+ID: hssh-SH1.2
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11201,7 +11201,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH1.3'
+ID: hssh-SH1.3
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11218,7 +11218,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH1.4'
+ID: hssh-SH1.4
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11235,7 +11235,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH1.5'
+ID: hssh-SH1.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11252,7 +11252,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH1.6'
+ID: hssh-SH1.6
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11269,7 +11269,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH1.7'
+ID: hssh-SH1.7
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11286,7 +11286,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH10'
+ID: hssh-SH10
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11303,7 +11303,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH2'
+ID: hssh-SH2
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11320,7 +11320,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH3'
+ID: hssh-SH3
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11337,7 +11337,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SH5'
+ID: hssh-SH5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11354,7 +11354,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS1.7'
+ID: hssh-SS1.7
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11371,7 +11371,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS1.75'
+ID: hssh-SS1.75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11388,7 +11388,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS1.8'
+ID: hssh-SS1.8
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11405,7 +11405,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS1.85'
+ID: hssh-SS1.85
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11422,7 +11422,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS10'
+ID: hssh-SS10
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11439,7 +11439,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS2'
+ID: hssh-SS2
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11456,7 +11456,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS2.071'
+ID: hssh-SS2.071
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11473,7 +11473,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS2.1'
+ID: hssh-SS2.1
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11490,7 +11490,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS2.25'
+ID: hssh-SS2.25
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11507,7 +11507,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS2.5'
+ID: hssh-SS2.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11524,7 +11524,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS2.75'
+ID: hssh-SS2.75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11541,7 +11541,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS3'
+ID: hssh-SS3
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11558,7 +11558,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS3.5'
+ID: hssh-SS3.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11575,7 +11575,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS4'
+ID: hssh-SS4
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11592,7 +11592,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS5'
+ID: hssh-SS5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11609,7 +11609,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SS7.5'
+ID: hssh-SS7.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11626,7 +11626,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH100'
+ID: hssh-SSH100
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11643,7 +11643,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH105'
+ID: hssh-SSH105
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11660,7 +11660,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH110'
+ID: hssh-SSH110
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11677,7 +11677,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH115'
+ID: hssh-SSH115
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11694,7 +11694,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH120'
+ID: hssh-SSH120
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11711,7 +11711,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH130'
+ID: hssh-SSH130
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11728,7 +11728,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH70'
+ID: hssh-SSH70
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11745,7 +11745,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH75'
+ID: hssh-SSH75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11762,7 +11762,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH80'
+ID: hssh-SSH80
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11779,7 +11779,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH85'
+ID: hssh-SSH85
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11796,7 +11796,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH90'
+ID: hssh-SSH90
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11813,7 +11813,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hssh-SSH95'
+ID: hssh-SSH95
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11830,12 +11830,12 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'hsshGeo'
+ID: hsshGeo
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -11855,12 +11855,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'htp'
+ID: htp
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -11890,7 +11890,7 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS1.5'
+ID: mdt-CS1.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11910,7 +11910,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS1.6'
+ID: mdt-CS1.6
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11930,7 +11930,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS1.7'
+ID: mdt-CS1.7
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11950,7 +11950,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS1.75'
+ID: mdt-CS1.75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11970,7 +11970,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS1.85'
+ID: mdt-CS1.85
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -11990,7 +11990,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS10'
+ID: mdt-CS10
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12010,7 +12010,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS2'
+ID: mdt-CS2
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12030,7 +12030,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS2.1'
+ID: mdt-CS2.1
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12050,7 +12050,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS2.25'
+ID: mdt-CS2.25
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12070,7 +12070,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS2.5'
+ID: mdt-CS2.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12090,7 +12090,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS2.75'
+ID: mdt-CS2.75
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12110,7 +12110,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS3'
+ID: mdt-CS3
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12130,7 +12130,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS3.5'
+ID: mdt-CS3.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12150,7 +12150,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS4'
+ID: mdt-CS4
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12170,7 +12170,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS5'
+ID: mdt-CS5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12190,7 +12190,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-CS7.5'
+ID: mdt-CS7.5
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12210,7 +12210,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS100'
+ID: mdt-SCS100
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12230,7 +12230,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS105'
+ID: mdt-SCS105
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12250,7 +12250,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS115'
+ID: mdt-SCS115
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12270,7 +12270,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS120'
+ID: mdt-SCS120
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12290,7 +12290,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS125'
+ID: mdt-SCS125
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12310,7 +12310,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS130'
+ID: mdt-SCS130
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12330,7 +12330,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS140'
+ID: mdt-SCS140
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12350,7 +12350,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS150'
+ID: mdt-SCS150
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12370,7 +12370,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS160'
+ID: mdt-SCS160
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12390,7 +12390,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS70'
+ID: mdt-SCS70
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12410,7 +12410,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS80'
+ID: mdt-SCS80
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12430,7 +12430,7 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdt-SCS90'
+ID: mdt-SCS90
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12450,12 +12450,12 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mdtBase'
+ID: mdtBase
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12478,12 +12478,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mesh'
+ID: mesh
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12505,12 +12505,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mete'
+ID: mete
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12538,12 +12538,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'mte'
+ID: mte
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12570,12 +12570,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'nph'
+ID: nph
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12609,12 +12609,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'pho'
+ID: pho
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12643,12 +12643,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 's8'
+ID: s8
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12672,12 +12672,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 's8Geo'
+ID: s8Geo
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12701,7 +12701,7 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'ssgr'
+ID: ssgr
 ReferenceEngineID: None
 AMSInput: |
    properties
@@ -12738,12 +12738,12 @@ AMSInput: |
    task singlepoint
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'taa'
+ID: taa
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12767,12 +12767,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'tani'
+ID: tani
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12804,12 +12804,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'tch'
+ID: tch
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12841,12 +12841,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'thp'
+ID: thp
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12875,12 +12875,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'tou'
+ID: tou
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12911,12 +12911,12 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-ID: 'tpho'
+ID: tpho
 ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.1
+       gradients 0.00015936
        step 1e-06
      End
      maxiterations 3000
@@ -12945,3 +12945,4 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ...
+# 0.4.1
