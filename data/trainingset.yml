@@ -1,9 +1,16 @@
 ---
-Expression: distance("hsshGeo",2,1)
+Expression: distance("hsshGeo",1,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 2.066
 Sigma: 0.01
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: distance("hsshGeo",2,0)
+Weight: 1
+Unit: angstrom, 0.52918
+ReferenceValue: 1.34
+Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("hsshGeo",3,1)
@@ -13,145 +20,145 @@ ReferenceValue: 1.34
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("hsshGeo",4,2)
-Weight: 1
-Unit: angstrom, 0.52918
-ReferenceValue: 1.34
-Sigma: 0.04
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: angles("hsshGeo",(2,1,3))
+Expression: angles("hsshGeo",(1,0,2))
 Weight: 1
 ReferenceValue: 97.793
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("hsshGeo",(1,2,4))
+Expression: angles("hsshGeo",(0,1,3))
 Weight: 1
 ReferenceValue: 97.793
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("hsshGeo",3,1,2,4)
+Expression: dihedral("hsshGeo",2,0,1,3)
 Weight: 1
 ReferenceValue: 90.644
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("h2sGeo",2,1)
+Expression: distance("h2sGeo",1,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.335
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("h2sGeo",3,1)
+Expression: distance("h2sGeo",2,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.335
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("h2sGeo",(2,1,3))
+Expression: angles("h2sGeo",(1,0,2))
 Weight: 1
 ReferenceValue: 92.234
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("mdtBase",2,1)
+Expression: distance("mdtBase",1,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.819
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("mdtBase",3,2)
+Expression: distance("mdtBase",2,1)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.808
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("mdtBase",4,1)
+Expression: distance("mdtBase",3,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.341
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("mdtBase",5,2)
+Expression: distance("mdtBase",4,1)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.086
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("mdtBase",6,2)
+Expression: distance("mdtBase",5,1)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("mdtBase",7,3)
+Expression: distance("mdtBase",6,2)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.339
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("mdtBase",(1,2,3))
+Expression: angles("mdtBase",(0,1,2))
 Weight: 1
 ReferenceValue: 109.757
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("mdtBase",(2,1,4))
+Expression: angles("mdtBase",(1,0,3))
 Weight: 1
 ReferenceValue: 96.368
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("mdtBase",(1,2,5))
+Expression: angles("mdtBase",(0,1,4))
 Weight: 1
 ReferenceValue: 110.553
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("mdtBase",(1,2,6))
+Expression: angles("mdtBase",(0,1,5))
 Weight: 1
 ReferenceValue: 110.638
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("mdtBase",(2,3,7))
+Expression: angles("mdtBase",(1,2,6))
 Weight: 1
 ReferenceValue: 95.748
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("mdtBase",3,2,1,4)
+Expression: dihedral("mdtBase",2,1,0,3)
 Weight: 1
 ReferenceValue: 172.785
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("mdtBase",3,1,2,5)
+Expression: dihedral("mdtBase",2,0,1,4)
 Weight: 1
 ReferenceValue: 122.148
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("mdtBase",3,1,2,6)
+Expression: dihedral("mdtBase",2,0,1,5)
 Weight: 1
 ReferenceValue: 116.061
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("mdtBase",1,2,3,7)
+Expression: dihedral("mdtBase",0,1,2,6)
 Weight: 1
 ReferenceValue: 63.46300000000002
 Sigma: 3.0
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: distance("dmteBase",1,0)
+Weight: 1
+Unit: angstrom, 0.52918
+ReferenceValue: 1.805
+Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmteBase",2,1)
@@ -161,194 +168,193 @@ ReferenceValue: 1.805
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmteBase",3,2)
-Weight: 1
-Unit: angstrom, 0.52918
-ReferenceValue: 1.805
-Sigma: 0.02
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: distance("dmteBase",4,1)
+Expression: distance("dmteBase",3,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmteBase",5,1)
+Expression: distance("dmteBase",4,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmteBase",6,1)
+Expression: distance("dmteBase",5,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmteBase",7,3)
+Expression: distance("dmteBase",6,2)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmteBase",8,3)
+Expression: distance("dmteBase",7,2)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmteBase",9,3)
+Expression: distance("dmteBase",8,2)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmteBase",(1,2,3))
+Expression: angles("dmteBase",(0,1,2))
 Weight: 1
 ReferenceValue: 97.916
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmteBase",(2,1,4))
+Expression: angles("dmteBase",(1,0,3))
 Weight: 1
 ReferenceValue: 107.431
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmteBase",(2,1,5))
+Expression: angles("dmteBase",(1,0,4))
 Weight: 1
 ReferenceValue: 110.575
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmteBase",(2,1,6))
+Expression: angles("dmteBase",(1,0,5))
 Weight: 1
 ReferenceValue: 110.575
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmteBase",(2,3,7))
+Expression: angles("dmteBase",(1,2,6))
 Weight: 1
 ReferenceValue: 107.431
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmteBase",(2,3,8))
+Expression: angles("dmteBase",(1,2,7))
 Weight: 1
 ReferenceValue: 110.575
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmteBase",(2,3,9))
+Expression: angles("dmteBase",(1,2,8))
 Weight: 1
 ReferenceValue: 110.575
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmteBase",3,2,1,4)
+Expression: dihedral("dmteBase",2,1,0,3)
 Weight: 1
 ReferenceValue: 179.974
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmteBase",3,2,1,5)
+Expression: dihedral("dmteBase",2,1,0,4)
 Weight: 1
 ReferenceValue: 61.007
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmteBase",3,2,1,6)
+Expression: dihedral("dmteBase",2,1,0,5)
 Weight: 1
 ReferenceValue: 61.007000000000005
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmteBase",1,2,3,7)
+Expression: dihedral("dmteBase",0,1,2,6)
 Weight: 1
 ReferenceValue: 179.974
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmteBase",1,2,3,8)
+Expression: dihedral("dmteBase",0,1,2,7)
 Weight: 1
 ReferenceValue: 61.007
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmteBase",1,2,3,9)
+Expression: dihedral("dmteBase",0,1,2,8)
 Weight: 1
 ReferenceValue: 61.007000000000005
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmds",2,1)
+Expression: distance("dmds",1,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.813
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmds",3,2)
+Expression: distance("dmds",2,1)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 2.046
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmds",4,3)
+Expression: distance("dmds",3,2)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.813
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmds",5,1)
+Expression: distance("dmds",4,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmds",6,1)
+Expression: distance("dmds",5,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmds",7,1)
+Expression: distance("dmds",6,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.086
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmds",8,4)
+Expression: distance("dmds",7,3)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmds",9,4)
+Expression: distance("dmds",8,3)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dmds",10,4)
+Expression: distance("dmds",9,3)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.086
 Sigma: 0.05
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: angles("dmds",(0,1,2))
+Weight: 1
+ReferenceValue: 101.791
+Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("dmds",(1,2,3))
@@ -357,88 +363,89 @@ ReferenceValue: 101.791
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmds",(2,3,4))
-Weight: 1
-ReferenceValue: 101.791
-Sigma: 3.0
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: angles("dmds",(2,1,5))
+Expression: angles("dmds",(1,0,4))
 Weight: 1
 ReferenceValue: 106.439
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmds",(2,1,6))
+Expression: angles("dmds",(1,0,5))
 Weight: 1
 ReferenceValue: 110.914
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmds",(2,1,7))
+Expression: angles("dmds",(1,0,6))
 Weight: 1
 ReferenceValue: 110.238
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmds",(3,4,8))
+Expression: angles("dmds",(2,3,7))
 Weight: 1
 ReferenceValue: 106.439
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmds",(3,4,9))
+Expression: angles("dmds",(2,3,8))
 Weight: 1
 ReferenceValue: 110.913
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dmds",(3,4,10))
+Expression: angles("dmds",(2,3,9))
 Weight: 1
 ReferenceValue: 110.238
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmds",1,2,3,4)
+Expression: dihedral("dmds",0,1,2,3)
 Weight: 1
 ReferenceValue: 85.10500000000002
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmds",3,2,1,5)
+Expression: dihedral("dmds",2,1,0,4)
 Weight: 1
 ReferenceValue: 177.984
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmds",3,2,1,6)
+Expression: dihedral("dmds",2,1,0,5)
 Weight: 1
 ReferenceValue: 63.411
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmds",3,2,1,7)
+Expression: dihedral("dmds",2,1,0,6)
 Weight: 1
 ReferenceValue: 59.108000000000004
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmds",2,3,4,8)
+Expression: dihedral("dmds",1,2,3,7)
 Weight: 1
 ReferenceValue: 177.984
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmds",2,3,4,9)
+Expression: dihedral("dmds",1,2,3,8)
 Weight: 1
 ReferenceValue: 63.411
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dmds",2,3,4,10)
+Expression: dihedral("dmds",1,2,3,9)
 Weight: 1
 ReferenceValue: 59.108000000000004
 Sigma: 3.0
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: distance("s8",1,0)
+Weight: 1
+Unit: angstrom, 0.52918
+ReferenceValue: 2.059
+Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("s8",2,1)
@@ -455,105 +462,105 @@ ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("s8",4,3)
+Expression: distance("s8",4,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("s8",5,1)
+Expression: distance("s8",5,4)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("s8",6,5)
+Expression: distance("s8",6,3)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("s8",7,4)
+Expression: distance("s8",7,5)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("s8",8,6)
-Weight: 1
-Unit: angstrom, 0.52918
-ReferenceValue: 2.059
-Sigma: 0.01
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: angles("s8",(1,2,3))
+Expression: angles("s8",(0,1,2))
 Weight: 1
 ReferenceValue: 107.458
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("s8",(2,3,4))
+Expression: angles("s8",(1,2,3))
 Weight: 1
 ReferenceValue: 107.456
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("s8",(2,1,5))
+Expression: angles("s8",(1,0,4))
 Weight: 1
 ReferenceValue: 107.461
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("s8",(1,5,6))
+Expression: angles("s8",(0,4,5))
 Weight: 1
 ReferenceValue: 107.459
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("s8",(3,4,7))
+Expression: angles("s8",(2,3,6))
 Weight: 1
 ReferenceValue: 107.459
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("s8",(5,6,8))
+Expression: angles("s8",(4,5,7))
 Weight: 1
 ReferenceValue: 107.456
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("s8",1,2,3,4)
+Expression: dihedral("s8",0,1,2,3)
 Weight: 1
 ReferenceValue: 99.44600000000003
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("s8",3,2,1,5)
+Expression: dihedral("s8",2,1,0,4)
 Weight: 1
 ReferenceValue: 99.384
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("s8",2,1,5,6)
+Expression: dihedral("s8",1,0,4,5)
 Weight: 1
 ReferenceValue: 99.33299999999997
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("s8",2,3,4,7)
+Expression: dihedral("s8",1,2,3,6)
 Weight: 1
 ReferenceValue: 99.394
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("s8",1,5,6,8)
+Expression: dihedral("s8",0,4,5,7)
 Weight: 1
 ReferenceValue: 99.394
 Sigma: 3.0
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: distance("bnz",1,0)
+Weight: 1
+Unit: angstrom, 0.52918
+ReferenceValue: 1.394
+Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("bnz",2,1)
@@ -584,11 +591,11 @@ ReferenceValue: 1.394
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("bnz",6,5)
+Expression: distance("bnz",6,0)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.394
-Sigma: 0.02
+ReferenceValue: 1.081
+Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("bnz",7,1)
@@ -626,11 +633,10 @@ ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("bnz",12,6)
+Expression: angles("bnz",(0,1,2))
 Weight: 1
-Unit: angstrom, 0.52918
-ReferenceValue: 1.081
-Sigma: 0.05
+ReferenceValue: 120.001
+Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("bnz",(1,2,3))
@@ -641,31 +647,31 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("bnz",(2,3,4))
 Weight: 1
-ReferenceValue: 120.001
+ReferenceValue: 119.998
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("bnz",(3,4,5))
 Weight: 1
+ReferenceValue: 120.001
+Sigma: 3.0
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: angles("bnz",(1,0,6))
+Weight: 1
+ReferenceValue: 120.001
+Sigma: 3.0
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: angles("bnz",(0,1,7))
+Weight: 1
 ReferenceValue: 119.998
-Sigma: 3.0
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: angles("bnz",(4,5,6))
-Weight: 1
-ReferenceValue: 120.001
-Sigma: 3.0
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: angles("bnz",(2,1,7))
-Weight: 1
-ReferenceValue: 120.001
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("bnz",(1,2,8))
 Weight: 1
-ReferenceValue: 119.998
+ReferenceValue: 120.001
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
@@ -677,19 +683,19 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("bnz",(3,4,10))
 Weight: 1
-ReferenceValue: 120.001
+ReferenceValue: 119.998
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("bnz",(4,5,11))
 Weight: 1
-ReferenceValue: 119.998
+ReferenceValue: 120.001
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("bnz",(5,6,12))
+Expression: dihedral("bnz",0,1,2,3)
 Weight: 1
-ReferenceValue: 120.001
+ReferenceValue: 0.026
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
@@ -701,23 +707,23 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: dihedral("bnz",2,3,4,5)
 Weight: 1
-ReferenceValue: 0.026
-Sigma: 3.0
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: dihedral("bnz",3,4,5,6)
-Weight: 1
 ReferenceValue: 0.02600000000001046
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("bnz",3,2,1,7)
+Expression: dihedral("bnz",2,1,0,6)
 Weight: 1
 ReferenceValue: 179.974
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("bnz",3,1,2,8)
+Expression: dihedral("bnz",2,0,1,7)
+Weight: 1
+ReferenceValue: 179.974
+Sigma: 3.0
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: dihedral("bnz",0,1,2,8)
 Weight: 1
 ReferenceValue: 179.974
 Sigma: 3.0
@@ -741,101 +747,102 @@ ReferenceValue: 179.974
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("bnz",4,5,6,12)
+Expression: distance("dpds",1,0)
 Weight: 1
-ReferenceValue: 179.974
-Sigma: 3.0
+Unit: angstrom, 0.52918
+ReferenceValue: 1.391
+Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",2,1)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.391
+ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",3,2)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.396
+ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",4,3)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.393
+ReferenceValue: 1.394
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",5,4)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.394
+ReferenceValue: 1.398
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",6,5)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.398
+ReferenceValue: 1.773
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",7,6)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.773
-Sigma: 0.02
+ReferenceValue: 2.087
+Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",8,7)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 2.087
-Sigma: 0.01
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: distance("dpds",9,8)
-Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.773
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpds",10,9)
+Expression: distance("dpds",9,8)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.399
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpds",11,10)
+Expression: distance("dpds",10,9)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.391
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpds",12,11)
+Expression: distance("dpds",11,10)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpds",13,12)
+Expression: distance("dpds",12,11)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpds",14,13)
+Expression: distance("dpds",13,12)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.394
 Sigma: 0.02
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: distance("dpds",14,0)
+Weight: 1
+Unit: angstrom, 0.52918
+ReferenceValue: 1.082
+Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",15,1)
@@ -848,14 +855,14 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 Expression: distance("dpds",16,2)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.082
+ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",17,3)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.081
+ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
@@ -866,7 +873,7 @@ ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpds",19,5)
+Expression: distance("dpds",19,9)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.082
@@ -883,14 +890,14 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 Expression: distance("dpds",21,11)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.082
+ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",22,12)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.081
+ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
@@ -901,380 +908,380 @@ ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpds",24,14)
-Weight: 1
-Unit: angstrom, 0.52918
-ReferenceValue: 1.082
-Sigma: 0.05
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: angles("dpds",(1,2,3))
+Expression: angles("dpds",(0,1,2))
 Weight: 1
 ReferenceValue: 120.258
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(2,3,4))
+Expression: angles("dpds",(1,2,3))
 Weight: 1
 ReferenceValue: 120.023
+Sigma: 3.0
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: angles("dpds",(2,3,4))
+Weight: 1
+ReferenceValue: 120.103
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("dpds",(3,4,5))
 Weight: 1
-ReferenceValue: 120.103
+ReferenceValue: 119.739
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("dpds",(4,5,6))
 Weight: 1
-ReferenceValue: 119.739
+ReferenceValue: 118.692
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("dpds",(5,6,7))
 Weight: 1
-ReferenceValue: 118.692
+ReferenceValue: 98.809
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("dpds",(6,7,8))
 Weight: 1
-ReferenceValue: 98.809
+ReferenceValue: 98.807
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("dpds",(7,8,9))
 Weight: 1
-ReferenceValue: 98.807
+ReferenceValue: 121.02
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("dpds",(8,9,10))
 Weight: 1
-ReferenceValue: 121.02
+ReferenceValue: 119.628
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("dpds",(9,10,11))
 Weight: 1
-ReferenceValue: 119.628
+ReferenceValue: 120.257
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("dpds",(10,11,12))
 Weight: 1
-ReferenceValue: 120.257
+ReferenceValue: 120.023
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: angles("dpds",(11,12,13))
 Weight: 1
-ReferenceValue: 120.023
-Sigma: 3.0
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: angles("dpds",(12,13,14))
-Weight: 1
 ReferenceValue: 120.103
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(2,1,15))
+Expression: angles("dpds",(1,0,14))
 Weight: 1
 ReferenceValue: 120.954
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(1,2,16))
+Expression: angles("dpds",(0,1,15))
 Weight: 1
 ReferenceValue: 119.733
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(2,3,17))
+Expression: angles("dpds",(1,2,16))
 Weight: 1
 ReferenceValue: 119.937
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(3,4,18))
+Expression: angles("dpds",(2,3,17))
 Weight: 1
 ReferenceValue: 120.175
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(4,5,19))
+Expression: angles("dpds",(3,4,18))
 Weight: 1
 ReferenceValue: 120.931
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(9,10,20))
+Expression: angles("dpds",(8,9,19))
 Weight: 1
 ReferenceValue: 119.417
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(10,11,21))
+Expression: angles("dpds",(9,10,20))
 Weight: 1
 ReferenceValue: 119.733
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(11,12,22))
+Expression: angles("dpds",(10,11,21))
 Weight: 1
 ReferenceValue: 119.935
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(12,13,23))
+Expression: angles("dpds",(11,12,22))
 Weight: 1
 ReferenceValue: 120.176
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpds",(13,14,24))
+Expression: angles("dpds",(12,13,23))
 Weight: 1
 ReferenceValue: 120.933
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",1,2,3,4)
+Expression: dihedral("dpds",0,1,2,3)
 Weight: 1
 ReferenceValue: 0.08400000000000318
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",2,3,4,5)
+Expression: dihedral("dpds",1,2,3,4)
 Weight: 1
 ReferenceValue: 0.3879999999999768
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",3,4,5,6)
+Expression: dihedral("dpds",2,3,4,5)
 Weight: 1
 ReferenceValue: 0.664
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",4,5,6,7)
+Expression: dihedral("dpds",3,4,5,6)
 Weight: 1
 ReferenceValue: 178.239
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",5,6,7,8)
+Expression: dihedral("dpds",4,5,6,7)
 Weight: 1
 ReferenceValue: 98.907
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",6,7,8,9)
+Expression: dihedral("dpds",5,6,7,8)
 Weight: 1
 ReferenceValue: 61.932000000000016
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",7,8,9,10)
+Expression: dihedral("dpds",6,7,8,9)
 Weight: 1
 ReferenceValue: 78.86500000000001
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",8,9,10,11)
+Expression: dihedral("dpds",7,8,9,10)
 Weight: 1
 ReferenceValue: 177.718
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",9,10,11,12)
+Expression: dihedral("dpds",8,9,10,11)
 Weight: 1
 ReferenceValue: 0.274
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",10,11,12,13)
+Expression: dihedral("dpds",9,10,11,12)
 Weight: 1
 ReferenceValue: 0.08300000000002683
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",11,12,13,14)
+Expression: dihedral("dpds",10,11,12,13)
 Weight: 1
 ReferenceValue: 0.3879999999999768
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",3,2,1,15)
+Expression: dihedral("dpds",2,1,0,14)
 Weight: 1
 ReferenceValue: 179.775
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",3,1,2,16)
+Expression: dihedral("dpds",2,0,1,15)
 Weight: 1
 ReferenceValue: 179.69
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",1,2,3,17)
+Expression: dihedral("dpds",0,1,2,16)
 Weight: 1
 ReferenceValue: 179.83
+Sigma: 3.0
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: dihedral("dpds",1,2,3,17)
+Weight: 1
+ReferenceValue: 179.685
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: dihedral("dpds",2,3,4,18)
 Weight: 1
-ReferenceValue: 179.685
-Sigma: 3.0
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: dihedral("dpds",3,4,5,19)
-Weight: 1
 ReferenceValue: 178.806
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",8,9,10,20)
+Expression: dihedral("dpds",7,8,9,19)
 Weight: 1
 ReferenceValue: 1.7900000000000205
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",9,10,11,21)
+Expression: dihedral("dpds",8,9,10,20)
 Weight: 1
 ReferenceValue: 179.974
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",10,11,12,22)
+Expression: dihedral("dpds",9,10,11,21)
 Weight: 1
 ReferenceValue: 179.83
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",11,12,13,23)
+Expression: dihedral("dpds",10,11,12,22)
 Weight: 1
 ReferenceValue: 179.685
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpds",12,13,14,24)
+Expression: dihedral("dpds",11,12,13,23)
 Weight: 1
 ReferenceValue: 178.809
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",2,1)
+Expression: distance("dpods",1,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.389
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",3,2)
+Expression: distance("dpods",2,1)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",4,3)
+Expression: distance("dpods",3,2)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.39
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",5,4)
+Expression: distance("dpods",4,3)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.397
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",6,5)
+Expression: distance("dpods",5,4)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.358
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",7,1)
+Expression: distance("dpods",6,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.399
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",8,7)
+Expression: distance("dpods",7,6)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.767
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",9,8)
+Expression: distance("dpods",8,7)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 2.103
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",10,9)
+Expression: distance("dpods",9,8)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.765
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",11,10)
+Expression: distance("dpods",10,9)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.406
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",12,11)
+Expression: distance("dpods",11,10)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.351
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",13,11)
+Expression: distance("dpods",12,10)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",14,13)
+Expression: distance("dpods",13,12)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.392
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",15,14)
+Expression: distance("dpods",14,13)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",16,15)
+Expression: distance("dpods",15,14)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.391
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",17,1)
+Expression: distance("dpods",16,0)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.082
+Sigma: 0.05
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: distance("dpods",17,1)
+Weight: 1
+Unit: angstrom, 0.52918
+ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
@@ -1288,336 +1295,329 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 Expression: distance("dpods",19,3)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.081
-Sigma: 0.05
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: distance("dpods",20,4)
-Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.084
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",21,6)
+Expression: distance("dpods",20,5)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 0.965
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",22,12)
+Expression: distance("dpods",21,11)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 0.972
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: distance("dpods",23,13)
+Expression: distance("dpods",22,12)
 Weight: 1
 Unit: angstrom, 0.52918
 ReferenceValue: 1.081
+Sigma: 0.05
+Source: https://doi.org/10.1021/acs.jctc.6b00461
+---
+Expression: distance("dpods",23,13)
+Weight: 1
+Unit: angstrom, 0.52918
+ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",24,14)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.082
+ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",25,15)
 Weight: 1
 Unit: angstrom, 0.52918
-ReferenceValue: 1.081
-Sigma: 0.05
-Source: https://doi.org/10.1021/acs.jctc.6b00461
----
-Expression: distance("dpods",26,16)
-Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(1,2,3))
+Expression: angles("dpods",(0,1,2))
 Weight: 1
 ReferenceValue: 119.458
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(2,3,4))
+Expression: angles("dpods",(1,2,3))
 Weight: 1
 ReferenceValue: 120.272
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(3,4,5))
+Expression: angles("dpods",(2,3,4))
 Weight: 1
 ReferenceValue: 120.625
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(4,5,6))
+Expression: angles("dpods",(3,4,5))
 Weight: 1
 ReferenceValue: 122.177
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(2,1,7))
+Expression: angles("dpods",(1,0,6))
 Weight: 1
 ReferenceValue: 120.755
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(1,7,8))
+Expression: angles("dpods",(0,6,7))
 Weight: 1
 ReferenceValue: 120.57
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(7,8,9))
+Expression: angles("dpods",(6,7,8))
 Weight: 1
 ReferenceValue: 98.142
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(8,9,10))
+Expression: angles("dpods",(7,8,9))
 Weight: 1
 ReferenceValue: 99.166
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(9,10,11))
+Expression: angles("dpods",(8,9,10))
 Weight: 1
 ReferenceValue: 119.778
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(10,11,12))
+Expression: angles("dpods",(9,10,11))
 Weight: 1
 ReferenceValue: 122.17
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(10,11,13))
+Expression: angles("dpods",(9,10,12))
 Weight: 1
 ReferenceValue: 119.237
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(11,13,14))
+Expression: angles("dpods",(10,12,13))
 Weight: 1
 ReferenceValue: 120.112
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(13,14,15))
+Expression: angles("dpods",(12,13,14))
 Weight: 1
 ReferenceValue: 120.779
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(14,15,16))
+Expression: angles("dpods",(13,14,15))
 Weight: 1
 ReferenceValue: 119.471
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(2,1,17))
+Expression: angles("dpods",(1,0,16))
 Weight: 1
 ReferenceValue: 120.925
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(1,2,18))
+Expression: angles("dpods",(0,1,17))
 Weight: 1
 ReferenceValue: 120.14
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(2,3,19))
+Expression: angles("dpods",(1,2,18))
 Weight: 1
 ReferenceValue: 120.281
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(3,4,20))
+Expression: angles("dpods",(2,3,19))
 Weight: 1
 ReferenceValue: 120.221
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(5,6,21))
+Expression: angles("dpods",(4,5,20))
 Weight: 1
 ReferenceValue: 108.212
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(11,12,22))
+Expression: angles("dpods",(10,11,21))
 Weight: 1
 ReferenceValue: 106.315
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(11,13,23))
+Expression: angles("dpods",(10,12,22))
 Weight: 1
 ReferenceValue: 118.593
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(13,14,24))
+Expression: angles("dpods",(12,13,23))
 Weight: 1
 ReferenceValue: 119.215
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(14,15,25))
+Expression: angles("dpods",(13,14,24))
 Weight: 1
 ReferenceValue: 120.484
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: angles("dpods",(15,16,26))
+Expression: angles("dpods",(14,15,25))
 Weight: 1
 ReferenceValue: 121.118
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",1,2,3,4)
+Expression: dihedral("dpods",0,1,2,3)
 Weight: 1
 ReferenceValue: 0.3
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",2,3,4,5)
+Expression: dihedral("dpods",1,2,3,4)
 Weight: 1
 ReferenceValue: 0.5240000000000009
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",3,4,5,6)
+Expression: dihedral("dpods",2,3,4,5)
 Weight: 1
 ReferenceValue: 179.974
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",3,2,1,7)
+Expression: dihedral("dpods",2,1,0,6)
 Weight: 1
 ReferenceValue: 0.299
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",2,1,7,8)
+Expression: dihedral("dpods",1,0,6,7)
 Weight: 1
 ReferenceValue: 176.083
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",1,7,8,9)
+Expression: dihedral("dpods",0,6,7,8)
 Weight: 1
 ReferenceValue: 82.25200000000001
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",7,8,9,10)
+Expression: dihedral("dpods",6,7,8,9)
 Weight: 1
 ReferenceValue: 60.370000000000005
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",8,9,10,11)
+Expression: dihedral("dpods",7,8,9,10)
 Weight: 1
 ReferenceValue: 81.529
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",9,10,11,12)
+Expression: dihedral("dpods",8,9,10,11)
 Weight: 1
 ReferenceValue: 2.1539999999999964
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",9,10,11,13)
+Expression: dihedral("dpods",8,9,10,12)
 Weight: 1
 ReferenceValue: 177.058
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",10,11,13,14)
+Expression: dihedral("dpods",9,10,12,13)
 Weight: 1
 ReferenceValue: 0.7459999999999809
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",11,13,14,15)
+Expression: dihedral("dpods",10,12,13,14)
 Weight: 1
 ReferenceValue: 0.803
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",13,14,15,16)
+Expression: dihedral("dpods",12,13,14,15)
 Weight: 1
 ReferenceValue: 0.4270000000000209
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",3,2,1,17)
+Expression: dihedral("dpods",2,1,0,16)
 Weight: 1
 ReferenceValue: 179.23
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",3,1,2,18)
+Expression: dihedral("dpods",2,0,1,17)
 Weight: 1
 ReferenceValue: 179.857
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",1,2,3,19)
+Expression: dihedral("dpods",0,1,2,18)
 Weight: 1
 ReferenceValue: 179.974
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",2,3,4,20)
+Expression: dihedral("dpods",1,2,3,19)
 Weight: 1
 ReferenceValue: 179.674
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",4,5,6,21)
+Expression: dihedral("dpods",3,4,5,20)
 Weight: 1
 ReferenceValue: 15.915
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",10,11,12,22)
+Expression: dihedral("dpods",9,10,11,21)
 Weight: 1
 ReferenceValue: 0.3480000000000132
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",10,11,13,23)
+Expression: dihedral("dpods",9,10,12,22)
 Weight: 1
 ReferenceValue: 179.767
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",11,13,14,24)
+Expression: dihedral("dpods",10,12,13,23)
 Weight: 1
 ReferenceValue: 179.974
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",13,14,15,25)
+Expression: dihedral("dpods",12,13,14,24)
 Weight: 1
 ReferenceValue: 179.425
 Sigma: 3.0
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
-Expression: dihedral("dpods",14,15,16,26)
+Expression: dihedral("dpods",13,14,15,25)
 Weight: 1
 ReferenceValue: 179.5
 Sigma: 3.0
