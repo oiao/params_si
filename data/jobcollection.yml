@@ -7404,10 +7404,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -7437,10 +7438,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -7475,10 +7477,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -7508,10 +7511,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -7543,10 +7547,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -7576,10 +7581,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -7606,10 +7612,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -9063,10 +9070,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -9094,10 +9102,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -9872,10 +9881,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -9902,10 +9912,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -9947,10 +9958,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -9994,10 +10006,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -10039,10 +10052,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -10070,10 +10084,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -10110,10 +10125,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -10140,10 +10156,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -10164,10 +10181,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -10892,10 +10910,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -11835,10 +11854,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -11860,10 +11880,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12455,10 +12476,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12483,10 +12505,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12510,10 +12533,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12543,10 +12567,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12575,10 +12600,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12614,10 +12640,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12648,10 +12675,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12677,10 +12705,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12743,10 +12772,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12772,10 +12802,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12809,10 +12840,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12846,10 +12878,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12880,10 +12913,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12916,10 +12950,11 @@ ReferenceEngineID: None
 AMSInput: |
    geometryoptimization
      convergence
-       gradients 0.00015936
+       gradients 0.00027601986582642706
        step 1e-06
      End
      maxiterations 3000
+     method FIRE
      pretendconverged
    End
    properties
@@ -12945,4 +12980,4 @@ AMSInput: |
    task geometryoptimization
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ...
-# 0.4.1
+# 0.5.0
