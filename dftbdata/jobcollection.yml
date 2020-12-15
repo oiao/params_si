@@ -1,0 +1,45 @@
+---
+ID: rocksalt_lattopt
+ReferenceEngineID: None
+AMSInput: |
+   Task GeometryOptimization
+   geometryoptimization
+     OptimizeLattice Yes
+   End
+   system
+     Atoms
+                Zn      2.1700000000      2.1700000000      2.1700000000 
+                 O      0.0000000000      0.0000000000      0.0000000000 
+     End
+     Lattice
+            0.0000000000     2.1700000000     2.1700000000
+            2.1700000000     0.0000000000     2.1700000000
+            2.1700000000     2.1700000000     0.0000000000
+     End
+   End
+---
+ID: wurtzite_lattopt
+ReferenceEngineID: None
+AMSInput: |
+   Task GeometryOptimization
+   geometryoptimization
+     OptimizeLattice Yes
+   End
+   properties
+     ElasticTensor Yes
+   End
+   system
+     Atoms
+                Zn      1.6450000000      0.9497411900      0.0233750800 
+                Zn      0.0000000000      1.8994823900      2.6783750800 
+                 O      1.6450000000      0.9497411900      3.2953749200 
+                 O      0.0000000000      1.8994823900      0.6403749200 
+     End
+     Lattice
+            3.2900000000     0.0000000000     0.0000000000
+           -1.6450000000     2.8492235800     0.0000000000
+            0.0000000000     0.0000000000     5.3100000000
+     End
+   End
+...
+# 0.5.0
