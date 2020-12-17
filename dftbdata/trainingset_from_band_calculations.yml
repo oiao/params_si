@@ -1,14 +1,18 @@
 ---
+Expression: bulkmodulus("wurtzite_lattopt")
+Weight: 1
+ReferenceValue: 120.298
+---
 Expression: lattice("wurtzite_lattopt", 0)
 Weight: 1
-ReferenceValue: 3.29
+ReferenceValue: 3.3034906603720327
 ---
 Expression: lattice("wurtzite_lattopt", 2)
 Weight: 1
-ReferenceValue: 5.31
+ReferenceValue: 5.276393397180919
 ---
 Expression: energy("wurtzite_lattopt")/2.0-energy("rocksalt_lattopt")
 Weight: 1
-ReferenceValue: 0.03686048131750397
+ReferenceValue: -0.014083789325482599
 ...
 # 0.5.0
