@@ -1,161 +1,138 @@
 ---
 Expression: distance("dpds",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.391
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.394
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",5,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.398
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",6,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.773
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",7,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.087
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",8,7)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.773
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",9,8)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.399
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",10,9)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.391
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",11,10)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",12,11)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",13,12)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.394
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",14,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",15,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",16,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",17,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",18,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",19,9)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",20,10)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",21,11)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",22,12)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpds",23,13)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -420,161 +397,138 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.39
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.395
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.394
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.391
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",5,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.401
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",6,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.476
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",7,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.64
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",8,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.476
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",9,8)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.401
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",10,9)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.39
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",11,10)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.395
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",12,11)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.394
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",13,12)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.391
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",14,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",15,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",16,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",17,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",18,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",19,9)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",20,10)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",21,11)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",22,12)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpt",23,13)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -839,126 +793,108 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.509
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.423
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.363
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.397
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",5,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",6,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.39
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",7,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",8,7)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.388
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",9,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",10,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",11,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",12,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.093
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",13,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.093
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",14,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.079
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",15,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",16,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",17,7)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("epe",18,8)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -1163,175 +1099,150 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.389
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.39
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.397
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",5,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.358
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",6,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.399
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",7,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.767
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",8,7)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.103
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",9,8)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.765
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",10,9)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.406
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",11,10)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.351
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",12,10)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",13,12)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.392
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",14,13)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",15,14)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.391
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",16,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",17,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",18,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",19,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.084
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",20,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 0.965
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",21,11)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 0.972
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",22,12)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",23,13)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",24,14)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dpods",25,15)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -1620,91 +1531,78 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.391
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.392
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.392
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.392
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",5,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.369
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",6,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.396
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",7,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.765
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",8,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",9,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",10,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",11,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.084
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",12,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 0.963
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("htp",13,7)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.336
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -1849,119 +1747,102 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.377
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.415
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.415
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.377
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",5,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.411
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",6,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.377
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",7,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.415
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",8,7)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.415
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",9,8)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.377
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",10,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",11,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.083
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",12,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.083
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",13,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",14,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",15,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.083
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",16,8)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.083
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("nph",17,9)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -2154,84 +2035,72 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.391
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.394
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.392
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",5,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.394
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",6,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.367
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",7,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",8,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",9,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",10,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",11,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.084
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("pho",12,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 0.963
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -2364,105 +2233,90 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.394
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.394
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",5,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.398
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",6,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.778
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",7,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.815
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",8,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",9,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",10,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",11,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",12,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",13,7)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",14,7)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tani",15,7)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -2631,84 +2485,72 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.391
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.393
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.392
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",5,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.397
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",6,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.77
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",7,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",8,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",9,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.081
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",10,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",11,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.082
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tpho",12,6)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.336
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -2841,56 +2683,48 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dht",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.711
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dht",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.377
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dht",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.414
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dht",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.377
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dht",5,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.077
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dht",6,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.079
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dht",7,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.079
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dht",8,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.077
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -2975,63 +2809,54 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmds",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.813
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmds",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.046
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmds",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.813
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmds",4,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmds",5,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmds",6,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.086
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmds",7,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmds",8,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmds",9,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.086
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -3128,56 +2953,48 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmte",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.804
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmte",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.804
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmte",3,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmte",4,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmte",5,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmte",6,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmte",7,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmte",8,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -3262,63 +3079,54 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmt",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.498
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmt",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.626
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmt",3,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.508
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmt",4,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.085
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmt",5,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.093
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmt",6,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.093
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmt",7,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmt",8,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("dmt",9,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -3415,63 +3223,54 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("edt",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.827
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("edt",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.517
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("edt",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.818
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("edt",4,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.337
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("edt",5,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("edt",6,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("edt",7,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("edt",8,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("edt",9,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.337
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -3568,56 +3367,48 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("ett",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.518
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("ett",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.82
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("ett",3,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.09
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("ett",4,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("ett",5,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("ett",6,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("ett",7,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("ett",8,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.337
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -3702,35 +3493,30 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mesh",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.815
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mesh",2,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.085
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mesh",3,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.085
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mesh",4,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.086
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mesh",5,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.336
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -3779,77 +3565,66 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.805
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.812
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.52
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",4,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",5,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",6,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",7,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.09
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",8,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.09
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",9,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",10,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mete",11,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.088
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -3970,70 +3745,60 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mte",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.508
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mte",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.634
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mte",3,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.737
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mte",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.795
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mte",5,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.086
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mte",6,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.09
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mte",7,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mte",8,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mte",9,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("mte",10,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -4142,49 +3907,42 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("s8",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("s8",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("s8",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("s8",4,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("s8",5,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("s8",6,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("s8",7,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.059
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -4257,14 +4015,12 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("h2s",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.335
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("h2s",2,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.335
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -4277,105 +4033,90 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.813
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.522
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.526
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.526
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",5,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.522
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",6,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",7,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.092
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",8,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.092
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",9,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.092
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",10,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.091
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",11,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.094
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",12,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.092
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",13,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.092
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",14,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("tch",15,5)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.092
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -4544,49 +4285,42 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("taa",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.503
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("taa",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.629
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("taa",3,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.753
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("taa",4,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.085
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("taa",5,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.091
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("taa",6,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.091
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("taa",7,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.341
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -4659,84 +4393,72 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.831
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",2,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.523
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",3,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.523
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",4,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.523
 Sigma: 0.02
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",5,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",6,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",7,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.09
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",8,2)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.091
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",9,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.091
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",10,3)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.09
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",11,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.087
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("thp",12,4)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.089
 Sigma: 0.05
 Source: https://doi.org/10.1021/acs.jctc.6b00461
@@ -4869,21 +4591,18 @@ Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("hssh",1,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 2.066
 Sigma: 0.01
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("hssh",2,0)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.34
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
 ---
 Expression: distance("hssh",3,1)
 Weight: 1
-Unit: angstrom, 0.52918
 ReferenceValue: 1.34
 Sigma: 0.04
 Source: https://doi.org/10.1021/acs.jctc.6b00461
