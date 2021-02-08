@@ -3,6 +3,10 @@ ID: rocksalt_lattopt
 ReferenceEngineID: None
 AMSInput: |
    Task GeometryOptimization
+   constraints
+     EqualStrain xx yy zz
+     FreezeStrain xy xz yz
+   End
    geometryoptimization
      OptimizeLattice Yes
    End
@@ -22,8 +26,15 @@ ID: wurtzite_lattopt
 ReferenceEngineID: None
 AMSInput: |
    Task GeometryOptimization
+   constraints
+     EqualStrain xx yy
+     FreezeStrain xy xz yz
+   End
    geometryoptimization
      OptimizeLattice Yes
+     convergence
+       Gradients 8e-05
+     End
    End
    properties
      ElasticTensor Yes
