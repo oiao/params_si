@@ -1,5 +1,5 @@
 This repository is provides supporting information for the article
-# ParAMS: Parameter Optimization for Molecular and Atomistic Simulations
+# ParAMS: Parameter Optimization for Atomistic and Molecular Simulations
 DOI: *123*
 
 [Notebooks](notebooks) provides the workflow scripts (along with some comments) used for the generation
