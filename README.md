@@ -1,4 +1,4 @@
-This repository is provides supporting information for the article
+This repository provides supporting information for the article
 # ParAMS: Parameter Optimization for Atomistic and Molecular Simulations
 DOI: *123*
 
