@@ -1,6 +1,6 @@
 This repository provides supporting information for the article
 # ParAMS: Parameter Optimization for Atomistic and Molecular Simulations
-Publication DOI: *123*
+Publication DOI: *123* (preprint at https://arxiv.org/abs/2102.08843)
 
 [Notebooks](notebooks) store the workflow scripts (along with comments) used for the generation
 of the files in the [data](data) directory.
